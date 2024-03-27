@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 757ca47f379963246843acce6f01e18f, type: 3}
+  m_Name: Beckfest
+  m_EditorClassIdentifier: 
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  color: {r: 0.49749008, g: 0.31739998, b: 0.69, a: 1}
+  emission: {r: 0, g: 0, b: 0, a: 0}
+  value: 3
+  metabolizationHalfLife: 30
+  cleaningAgent: 0
+  calories: 0.15
+  display: {fileID: 3897504131554393485, guid: 1c85f60ead8e7b8418fd9368bc3ad281, type: 3}
+  consumptionEvent:
+    rid: 8146302006955343880
+  references:
+    version: 2
+    RefIds:
+    - rid: 8146302006955343880
+      type: {class: CustomReagentConsumptionEvent, ns: , asm: Assembly-CSharp}
+      data:
+        Effects:
+        - rid: 8146302006955343881
+    - rid: 8146302006955343881
+      type: {class: DickSizeReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 0.5

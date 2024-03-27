@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 757ca47f379963246843acce6f01e18f, type: 3}
+  m_Name: HeavyBlend
+  m_EditorClassIdentifier: 
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  color: {r: 0.6394488, g: 0.10196077, b: 0.7372549, a: 1}
+  emission: {r: 0, g: 0, b: 0, a: 0}
+  value: 0
+  metabolizationHalfLife: 15
+  cleaningAgent: 0
+  calories: 0
+  display: {fileID: 0}
+  consumptionEvent:
+    rid: 8146301984734445569
+  references:
+    version: 2
+    RefIds:
+    - rid: 8146301984734445569
+      type: {class: CustomConsumptionDiscreteTrigger, ns: , asm: Assembly-CSharp}
+      data:
+        requiredCumulativeReagent: 10
+        maximumTriggerCount: -1
+        Effects:
+        - rid: 8146301984734445570
+        - rid: 8146301984734445571
+        - rid: 8146301984734445572
+        - rid: 8146301984734445573
+        - rid: 8146301984734445574
+    - rid: 8146301984734445570
+      type: {class: CumReagentEffect, ns: , asm: Assembly-CSharp}
+    - rid: 8146301984734445571
+      type: {class: BallSizeReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 1
+    - rid: 8146301984734445572
+      type: {class: DickSizeReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 0.5
+    - rid: 8146301984734445573
+      type: {class: LactateReagentEffect, ns: , asm: Assembly-CSharp}
+    - rid: 8146301984734445574
+      type: {class: BreastSizeReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 1
