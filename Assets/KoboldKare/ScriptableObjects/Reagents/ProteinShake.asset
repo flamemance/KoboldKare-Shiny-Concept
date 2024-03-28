@@ -24,7 +24,7 @@ MonoBehaviour:
   color: {r: 0.745283, g: 0.4661071, b: 0.16522783, a: 1}
   emission: {r: 0, g: 0, b: 0, a: 0}
   value: 2
-  metabolizationHalfLife: 60
+  metabolizationHalfLife: 30
   cleaningAgent: 0
   calories: 0.25
   display: {fileID: 0}

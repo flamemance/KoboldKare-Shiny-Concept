@@ -1790,7 +1790,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 2048
   heartPrefab:
-    gameObject: {fileID: 6056941379527732537, guid: 861cd39fe822136418b951562acc3ae3,
+    gameObject: {fileID: 4352025878486393598, guid: cdcbed80e3325214788e960acefcc31d,
       type: 3}
     optionalDatabase: {fileID: 0}
   tummyGrumbles: {fileID: 11400000, guid: 67a1644657f256b47ab2a61a75c069d6, type: 2}

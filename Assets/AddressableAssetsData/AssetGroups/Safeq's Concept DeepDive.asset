@@ -1,0 +1,642 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Safeq's Concept DeepDive
+  m_EditorClassIdentifier: 
+  m_GroupName: Safeq's Concept DeepDive
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ec236884a30612140944c7f1a66f7086
+  m_SerializeEntries:
+  - m_GUID: 227e6b1b0b414a243b1d498ace7afebc
+    m_Address: Assets/KoboldOpal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47e48caf70765094fab866c6d590a8ed
+    m_Address: Assets/KoboldGal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78cb5cf69c4a1994cb2189fda5c1152c
+    m_Address: Assets/KoboldMer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 861cd39fe822136418b951562acc3ae3
+    m_Address: Assets/HeartSilver.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cbdf3a55a8fe42409bd2d32d9c178df
+    m_Address: Assets/BananaSilver.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9ceb5f61519222498e11b85cb806990
+    m_Address: Assets/EggplantSilver.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6aa3625cbfb8937429b29175b6071c30
+    m_Address: Assets/EggSilver.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6cf0fd201dc3e04e8fb3433807774fe
+    m_Address: Assets/KoboldSilver.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ff1b3f4e544cb34eb1952080dbb94a1
+    m_Address: Assets/MelonSilver.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25aa284bc878bda4aa2a9de1a0138479
+    m_Address: Assets/PineappleSilver.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6af46d07f64c8be488b8dfbf11a8b7a0
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/PineappleSilverJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59d97d1754235af45afc31f6dba7bf2c
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/LoveSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56cb5261a8b58104389c42a51982dafe
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/EggplanSilverJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 184e46f7212eb4546aec60f37f37c1ff
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/PotassiumSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af1c53d7c377c80428436869776651d8
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/MelonSilverJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f0956e92c7063f4faf9efd8f793c643
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/EggSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a9715d0473f3f54a8636f45e31bac3f
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/KoboldBuriedSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fe40b173a2ba8f43bed90a887279c43
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/MelonGoldJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c9658ff0c60156488818d53fffac330
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/PotassiumGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db5843cbbe453bd4ea1547942e3d9956
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/YogurtGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dba39a3615770b74f83fe9abdc7fe42c
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/LoveGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83d30af8fc128624e83b60068e2adf51
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/EggplanGoldJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0a3c01c1c79dd2408f8211098b4ae91
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/PineappleGoldJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18304d4e093463a4cafbf0239796e817
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/EggGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3625be1f207e8aa4a8a316dd88f5a5a7
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/KoboldBuriedGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 281e4f2a26b03aa4d9ddfe5d37c0989e
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/KoboldSpawnPlantGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37baebcea5ff2cd4e86e97e8628cabb9
+    m_Address: Assets/KoboldGold.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b71ce00a624a0f5438b0bd7a25935e24
+    m_Address: Assets/BucketSafeq.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5082c0b4953715489f5264e1d6cc573
+    m_Address: Assets/BananaGold.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9d40245413b25448b242f37b1cecd5b
+    m_Address: Assets/HeartGold.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1636d59b36cfc2f4584b7c0e16e18396
+    m_Address: Assets/EggGold.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2a0bc004ea32a043aee62cbc410ed48
+    m_Address: Assets/MelonGold.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d21a9e3bec11b8b48af286ff403e8461
+    m_Address: Assets/PineappleGold.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4d555c827e4bb643b9d2ec08fafbada
+    m_Address: Assets/EggplantGold.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 547b4faca16270342ae62bceeaced7e8
+    m_Address: Assets/TroughGold.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edbf3e0e51f72744992468a1dfdefd32
+    m_Address: Assets/BucketGold.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 826847fdb15b2c04bbf0b9f512e7abe3
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/EggplanObsJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2a83bc9d6fa86c4284d6a14b47cdd25
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/LoveObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7b77ea9c6567844b908af4f237f4619
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/YogurtObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c806765690bc07441af25899ec10fc00
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/MelonObsJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b36d22783bae6d45b1ea2ebd556db37
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/PotassiumObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb6bd50ff0810654e8b3c42a8ffa96f0
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/PineappleObsJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d27bbcfc34879a47875f3394a65132d
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/YogurtLoveGoldReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de44f65355def994c8fe5cb437381639
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/YogurtLoveObsReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f21ad09e095bab44ab31c308e29e0cbb
+    m_Address: Assets/KoboldObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7abcdc32e9cdf3b469cc8b5e2b5a000d
+    m_Address: Assets/HeartObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39bf1a2425c4e1b41adb4e0b747bdc08
+    m_Address: Assets/EggObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c701206bf7cc501448876b1868e2a2c9
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/EggObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40a3cb0491f08f641a6d7a9a5490c6fe
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/KoboldBuriedObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5be29dc83494504cb63a6b579129ad9
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/KoboldSpawnPlantObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 406ff6b50d3300544bd7b8db3f7809a8
+    m_Address: Assets/BananaObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64c04a9fa1984aa48b485a0eda4ac9f1
+    m_Address: Assets/EggplantObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 195cfb17d5f1c26459cc595d1d3f55ba
+    m_Address: Assets/MelonObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f3d117b989ac83489a5b20523f2b265
+    m_Address: Assets/TroughOpal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a19d9f6fde4c2104197382c209e4106b
+    m_Address: Assets/PineappleObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0963ae57be2c88458dd417ee1992202
+    m_Address: Assets/MelonOpal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26c142253e6f9c54f87d883cb7ef2532
+    m_Address: Assets/BucketOpal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 206657ff5dc64fb46a6fa04f03841bc7
+    m_Address: Assets/PineappleOpal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 584c57bba68860d429c94053f3b1d6ab
+    m_Address: Assets/EggplantOpal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89bbaff9785fa924e92f0245b38a51c4
+    m_Address: Assets/BananaOpal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 743f8420dec138f449a8f2715444ab2a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/YogurtLoveOpalReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2495816269fbd246843d47175bf0782
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/YogurtOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fb3d55f982df354a9f597261833f355
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/PotassiumOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1eca5a3bbceb0b94cacfbc6722537850
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/PineappleOpalJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5cbc0e19a2133c40bc45c38b931ebe8
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/MelonOpalJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5129e8cd3f165194caa928f10371d96a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/EggplanOpalJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8922a837438fdf4ea0e8bb3c164ea7f
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/LoveOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5b9c8b9eed68914ea54b2bd674a88d9
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/KoboldSpawnPlantOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e526cbb27d26d5846b71bf94c038fddb
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/KoboldBuriedOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79d9f4039c01b6542a45efe0cfb11009
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/EggOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 024fd7a3ad199224e91ff654c04906f8
+    m_Address: Assets/EggOpal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5e900deb9ad55d439a28e9edb074a8b
+    m_Address: Assets/HeartOpal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4795423481e3994d9ebc2beb396e784
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/SafeqFruit.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c83eec5e0a2a614ca8eac55c636281f
+    m_Address: Assets/SafeqFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b11adff9eac1b4843b6efcf6d753d3ae
+    m_Address: Assets/SuperMelonSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Seed
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc345923a597da44f9ae37675044967a
+    m_Address: Assets/SuperPineappleSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Seed
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f631cd3b31289f469304b8db49fdb54
+    m_Address: Assets/SuperEggplantSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Seed
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75446714b66667445994736eb2df344f
+    m_Address: Assets/SuperBananaSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Seed
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6072699f09ed57648bb84f423fce0503
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SuperMelonMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa1c03c9cb636554fbeecbcfb89e19a1
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SuperMelonSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f475a39e223fda5468002a070f162dbd
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SuperMelonPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b555506516442c47bd58eb9f078ac0a
+    m_Address: Assets/KoboldEmerald.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d83da74adb280ef46aa1f2abe5b5e1ec
+    m_Address: Assets/KoboldAmethyst.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c441ffc16ae4f034eaaf6f3f8c6071ff
+    m_Address: Assets/KoboldCitrine.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: beb555c5b5fa3ae479a79e174733f1df
+    m_Address: Assets/KoboldTopaz.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4464c0cecb1ffc741ad08cd653bc44be
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SuperEggplantPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 692f6cf65c872224c81d730b80668ff2
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SuperEggplantSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46fdfe0cbdc278c4ba50b309970519ce
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SuperEggplantMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8db30f78660d0194089d299f07498233
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SuperPineappleMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a29c71e726a1e2b4b9cb858d1cc956d2
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SuperPineappleSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0c12bffc2b60b14fb6c3a13ebe4619e
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SuperPineapplePlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f70360a8506177444aef4f35cfe65d4a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SuperBananaMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba9a4683012d40a47825a59705b72c14
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SuperBananaPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b4f716190a3832459b915e1b16f7e91
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SuperBananaSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28da3dcccb6c42c4ba04f466186c8511
+    m_Address: Assets/TroughSafeq.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 883768ebbd012994fae2a592069ea019
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/KoboldSpawnPlantSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15f988769dce39842b4e2db23808aa62
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/LoveGal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cdcbed80e3325214788e960acefcc31d
+    m_Address: Assets/HeartGal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b8ebebc533c0e5d4889f6596b0425291, type: 2}
+    - {fileID: 11400000, guid: 19fd14abd1ba67845900ceb229d7d6f4, type: 2}

@@ -22,24 +22,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 227e6b1b0b414a243b1d498ace7afebc
-    m_Address: Assets/KoboldOpal.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PlayableCharacter
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 47e48caf70765094fab866c6d590a8ed
-    m_Address: Assets/KoboldGal.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PlayableCharacter
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 78cb5cf69c4a1994cb2189fda5c1152c
-    m_Address: Assets/KoboldMer.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PlayableCharacter
-    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
   m_SchemaSet:

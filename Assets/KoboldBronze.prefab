@@ -1977,7 +1977,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 2048
   heartPrefab:
-    gameObject: {fileID: 6562367668383676920, guid: b47e824ef9dd0654bae5ca33a2d5dd4b,
+    gameObject: {fileID: 6327913273711440348, guid: da64fe0cbacbd0f47a8778684a438880,
       type: 3}
     optionalDatabase: {fileID: 0}
   tummyGrumbles: {fileID: 11400000, guid: 67a1644657f256b47ab2a61a75c069d6, type: 2}

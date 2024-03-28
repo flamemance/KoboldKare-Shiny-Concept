@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b49cb41b826404fbc3be501ccb1196, type: 3}
+  m_Name: SuperBananaPlant
+  m_EditorClassIdentifier: 
+  fluidNeeded: 1
+  display: {fileID: 919132149155446097, guid: 5ddd36000a00eca4684e36f84c18d566, type: 3}
+  possibleNextGenerations: []
+  produces:
+  - prefab:
+      gameObject: {fileID: 3102687797691339609, guid: e137b71360ce8944f98459e999796966,
+        type: 3}
+      optionalDatabase: {fileID: 0}
+    minProduce: 1
+    maxProduce: 1
+  - prefab:
+      gameObject: {fileID: 5071800359177203158, guid: 2d7079c577c2f8d4d9ef9aae64c802a2,
+        type: 3}
+      optionalDatabase: {fileID: 0}
+    minProduce: 1
+    maxProduce: 1
+  - prefab:
+      gameObject: {fileID: 1049151787788378673, guid: 2cbdf3a55a8fe42409bd2d32d9c178df,
+        type: 3}
+      optionalDatabase: {fileID: 0}
+    minProduce: 1
+    maxProduce: 1
+  - prefab:
+      gameObject: {fileID: 3360323654705788093, guid: a5082c0b4953715489f5264e1d6cc573,
+        type: 3}
+      optionalDatabase: {fileID: 0}
+    minProduce: 1
+    maxProduce: 1
+  - prefab:
+      gameObject: {fileID: 3272845134754434075, guid: 406ff6b50d3300544bd7b8db3f7809a8,
+        type: 3}
+      optionalDatabase: {fileID: 0}
+    minProduce: 1
+    maxProduce: 1
+  - prefab:
+      gameObject: {fileID: 1825354792246904416, guid: 89bbaff9785fa924e92f0245b38a51c4,
+        type: 3}
+      optionalDatabase: {fileID: 0}
+    minProduce: 1
+    maxProduce: 1
+  - prefab:
+      gameObject: {fileID: 1744535528970206803, guid: beb555c5b5fa3ae479a79e174733f1df,
+        type: 3}
+      optionalDatabase: {fileID: 0}
+    minProduce: 0
+    maxProduce: 1
