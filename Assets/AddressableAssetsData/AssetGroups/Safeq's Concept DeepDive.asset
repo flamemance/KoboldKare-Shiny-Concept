@@ -624,7 +624,6 @@ MonoBehaviour:
     m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/LoveGal.asset
     m_ReadOnly: 0
     m_SerializedLabels:
-    - NetworkedPrefab
     - default
     - Reagent
     FlaggedDuringContentUpdateRestriction: 0

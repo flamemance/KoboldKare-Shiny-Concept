@@ -254,6 +254,27 @@ public class Kobold : GeneHolder, IGrabbable, IPunObservable, IPunInstantiateMag
         if (newGenes == null) {
             return;
         }
+        var db = GameManager.GetPlayerDatabase();
+        var refs = db.GetValidPrefabReferenceInfos();
+        string prefabName = refs[newGenes.species].GetKey();
+            float div = 1f;
+            switch(prefabName){
+            case "KoboldBronze":
+                div = 5f;
+                break;
+            case "KoboldSilver":
+                div = 25f;
+                break;
+            case "KoboldGold":
+                div = 125f;
+                break;
+            case "KoboldObs":
+                div = 625f;
+                break;
+            case "KoboldOpal":
+                div = 3125f;
+                break;
+            }
         // Set dick
         if (newGenes.dickEquip == byte.MaxValue || GetGenes() == null || newGenes.dickEquip != GetGenes().dickEquip) {
             if (dickObject != null) {
@@ -282,18 +303,18 @@ public class Kobold : GeneHolder, IGrabbable, IPunObservable, IPunInstantiateMag
                     inflatableDick.SetDickThickness(newGenes.dickThickness);
                 }
             }
-            dickSet.dickSizeInflater.SetSize(0.5f+Mathf.Log(1f + newGenes.dickSize / 20f, 2f), dickSet.descriptor);
-            dickSet.ballSizeInflater.SetSize(0.5f+Mathf.Log(1f + newGenes.ballSize / 20f, 2f), dickSet.descriptor);
+            dickSet.dickSizeInflater.SetSize(0.5f+Mathf.Log(1f + newGenes.dickSize / 20f/ div, 2f), dickSet.descriptor);
+            dickSet.ballSizeInflater.SetSize(0.5f+Mathf.Log(1f + newGenes.ballSize / 20f/ div, 2f), dickSet.descriptor);
         }
         grabber.SetMaxGrabCount(newGenes.grabCount);
         if (ragdoller.ragdolled) {
-            sizeInflater.SetSizeInstant(Mathf.Max(Mathf.Log(1f + newGenes.baseSize / 20f, 2f), 0.2f));
-        } else {
-            sizeInflater.SetSize(Mathf.Max(Mathf.Log(1f + newGenes.baseSize / 20f, 2f), 0.2f), this);
+            sizeInflater.SetSizeInstant(Mathf.Max(Mathf.Log(1f + newGenes.baseSize / 20f/ div, 2f), 0.2f));
+            } else {
+            sizeInflater.SetSize(Mathf.Max(Mathf.Log(1f + newGenes.baseSize / 20f/ div, 2f), 0.2f), this);
         }
 
-        fatnessInflater.SetSize(Mathf.Log(1f + newGenes.fatSize / 20f, 2f), this);
-        boobsInflater.SetSize(Mathf.Log(1f + newGenes.breastSize / 20f, 2f), this);
+        fatnessInflater.SetSize(Mathf.Log(1f + newGenes.fatSize / 20f/ div, 2f), this);
+        boobsInflater.SetSize(Mathf.Log(1f + newGenes.breastSize / 20f/ div, 2f), this);
         bellyContainer.maxVolume = newGenes.bellySize;
         metabolizedContents.SetMaxVolume(newGenes.metabolizeCapacitySize);
         Vector4 hbcs = new Vector4(newGenes.hue/255f, newGenes.brightness/255f, 0.5f, newGenes.saturation/255f);
