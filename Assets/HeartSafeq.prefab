@@ -109,7 +109,7 @@ MonoBehaviour:
     type: 3}
   startingReagent:
     reagent: {fileID: 11400000, guid: 211621c1eef49d841b77ccc1a680d167, type: 2}
-    volume: 10
+    volume: 1
   fruitInflater:
     bounce: {fileID: 11400000, guid: e18312d1b399ef44cbae03acd0a32afb, type: 2}
     listeners: []

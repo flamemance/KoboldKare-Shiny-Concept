@@ -48,7 +48,7 @@ GameObject:
   - component: {fileID: 5699469140041091917}
   - component: {fileID: 1621967007239722465}
   m_Layer: 11
-  m_Name: elppaenip
+  m_Name: Elppaenip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

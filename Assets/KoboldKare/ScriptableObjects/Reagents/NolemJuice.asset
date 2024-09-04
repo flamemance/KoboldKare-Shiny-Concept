@@ -29,21 +29,21 @@ MonoBehaviour:
   calories: 0
   display: {fileID: 0}
   consumptionEvent:
-    rid: 8146302136739692549
+    rid: 4240487702591700992
   references:
     version: 2
     RefIds:
-    - rid: 8146302136739692549
-      type: {class: CustomReagentConsumptionMetabolize, ns: , asm: Assembly-CSharp}
+    - rid: 4240487702591700992
+      type: {class: CustomReagentConsumptionEvent, ns: , asm: Assembly-CSharp}
       data:
         Effects:
-        - rid: 8146302136739692550
-        - rid: 8146302136739692551
-    - rid: 8146302136739692550
+        - rid: 4240487702591700993
+        - rid: 4240487702591700994
+    - rid: 4240487702591700993
       type: {class: BreastSizeReagentEffect, ns: , asm: Assembly-CSharp}
       data:
         Multiplier: 1
-    - rid: 8146302136739692551
+    - rid: 4240487702591700994
       type: {class: ConversionReagentEffect, ns: , asm: Assembly-CSharp}
       data:
         Multiplier: 2

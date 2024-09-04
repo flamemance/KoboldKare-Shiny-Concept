@@ -1786,6 +1786,8 @@ MonoBehaviour:
     listeners:
     - rid: 4
     - rid: 5
+    - rid: 4240487702591701004
+    - rid: 4240487702591701005
   heartHitMask:
     serializedVersion: 2
     m_Bits: 2048
@@ -1802,6 +1804,8 @@ MonoBehaviour:
   milkLactator:
     nipples:
     - {fileID: 4641893859833647314}
+    - {fileID: 4641893859833647314}
+    - {fileID: 4641893859833647316}
     - {fileID: 4641893859833647316}
     milkSplatMaterial: {fileID: 2100000, guid: 3821f9133468bfa449f3dbee8d5a1aff, type: 2}
   hip: {fileID: 4641893859833647286}
@@ -1838,6 +1842,34 @@ MonoBehaviour:
         breastAnimator: {fileID: 4641893859841113914}
         breastForward: {x: 0, y: 1, z: 0}
     - rid: 5
+      type: {class: InflatableBreast, ns: Naelstrof.Inflatable, asm: com.naelstrof.inflatable}
+      data:
+        baseBreastTransform: {fileID: 8016056221232294087}
+        jiggleBoneBreastTransform: {fileID: 4641893859833647316}
+        flatShape: FlatChestRight
+        biggerShape: BiggerBreastRight
+        skinnedMeshRenderers:
+        - {fileID: 4641893859836854778}
+        - {fileID: 4374000391915145233}
+        rigBuilder: {fileID: 3025508336864168306}
+        skinJiggle: {fileID: 8086257472197972469}
+        breastAnimator: {fileID: 4641893859841113914}
+        breastForward: {x: 0, y: 1, z: 0}
+    - rid: 4240487702591701004
+      type: {class: InflatableBreast, ns: Naelstrof.Inflatable, asm: com.naelstrof.inflatable}
+      data:
+        baseBreastTransform: {fileID: 23747149574337841}
+        jiggleBoneBreastTransform: {fileID: 4641893859833647314}
+        flatShape: FlatChestLeft
+        biggerShape: BiggerBreastLeft
+        skinnedMeshRenderers:
+        - {fileID: 4641893859836854778}
+        - {fileID: 4374000391915145233}
+        rigBuilder: {fileID: 3025508336864168306}
+        skinJiggle: {fileID: 8086257472197972469}
+        breastAnimator: {fileID: 4641893859841113914}
+        breastForward: {x: 0, y: 1, z: 0}
+    - rid: 4240487702591701005
       type: {class: InflatableBreast, ns: Naelstrof.Inflatable, asm: com.naelstrof.inflatable}
       data:
         baseBreastTransform: {fileID: 8016056221232294087}

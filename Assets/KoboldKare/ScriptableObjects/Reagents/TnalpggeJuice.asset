@@ -29,22 +29,22 @@ MonoBehaviour:
   calories: 0
   display: {fileID: 0}
   consumptionEvent:
-    rid: 8146302136739692549
+    rid: 4240487702591700998
   references:
     version: 2
     RefIds:
-    - rid: 8146302136739692549
-      type: {class: CustomReagentConsumptionMetabolize, ns: , asm: Assembly-CSharp}
+    - rid: 4240487702591700998
+      type: {class: CustomReagentConsumptionEvent, ns: , asm: Assembly-CSharp}
       data:
         Effects:
-        - rid: 8146302136739692552
-        - rid: 8146302136739692551
-    - rid: 8146302136739692551
+        - rid: 4240487702591700999
+        - rid: 4240487702591701000
+    - rid: 4240487702591700999
+      type: {class: DickSizeReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 1
+    - rid: 4240487702591701000
       type: {class: ConversionReagentEffect, ns: , asm: Assembly-CSharp}
       data:
         Multiplier: 2
         ConvertToReagent: {fileID: 11400000}
-    - rid: 8146302136739692552
-      type: {class: DickSizeReagentEffect, ns: , asm: Assembly-CSharp}
-      data:
-        Multiplier: 1

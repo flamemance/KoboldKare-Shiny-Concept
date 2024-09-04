@@ -925,6 +925,8 @@ MonoBehaviour:
   attachPoints:
   - attachPoint: 0
     targetTransform: {fileID: 9064043787643109635}
+  - attachPoint: 0
+    targetTransform: {fileID: 9064043787643109635}
   - attachPoint: 1
     targetTransform: {fileID: 1948204718749097874}
   - attachPoint: 2
@@ -1521,14 +1523,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5270987845737629374}
-  m_LocalRotation: {x: -0.04144203, y: -0, z: 2.3419486e-10, w: 0.999141}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0, y: -0.044, z: 0.0563}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1948204718749097864}
   m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: -4.75, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &5598135280621157789
 GameObject:
   m_ObjectHideFlags: 0

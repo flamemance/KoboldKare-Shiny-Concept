@@ -864,6 +864,38 @@ MonoBehaviour:
     m_SerializedLabels:
     - NetworkedPrefab
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b141ff1b1dec5054693d9523a08bc748
+    m_Address: Assets/WateringCanBronze.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af3bde84b474ee3419f45c3a97b23896
+    m_Address: Assets/WateringCanGold.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 665111c5e7636a94d969f4c1eac97fea
+    m_Address: Assets/WateringCanOpal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e10ef4ba85470b845a4e7d332eae944a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Ichor.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 201e2fde8f44e164885b24d06cb72306
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/AntiFruitReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
   m_SchemaSet:
