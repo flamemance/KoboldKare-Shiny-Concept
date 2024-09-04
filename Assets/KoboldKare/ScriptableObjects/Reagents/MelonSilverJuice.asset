@@ -41,4 +41,4 @@ MonoBehaviour:
     - rid: 8146302006955343873
       type: {class: BreastSizeReagentEffect, ns: , asm: Assembly-CSharp}
       data:
-        Multiplier: 4
+        Multiplier: 3

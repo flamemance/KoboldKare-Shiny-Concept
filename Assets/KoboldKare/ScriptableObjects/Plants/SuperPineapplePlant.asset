@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fluidNeeded: 1
   display: {fileID: 919132149155446097, guid: 719029ecd94457b4383d65f7c170d6b4, type: 3}
-  possibleNextGenerations: []
+  possibleNextGenerations:
+  - {fileID: 0}
   produces:
   - prefab:
       gameObject: {fileID: 3102687797691339609, guid: 489cb8e780e14014b904c97fd8a09dc7,
@@ -53,7 +54,7 @@ MonoBehaviour:
     minProduce: 1
     maxProduce: 1
   - prefab:
-      gameObject: {fileID: 3958618210135089917, guid: c441ffc16ae4f034eaaf6f3f8c6071ff,
+      gameObject: {fileID: 1233744427138640584, guid: aa6a2e8756e6e294281bb8d357490426,
         type: 3}
       optionalDatabase: {fileID: 0}
     minProduce: 0

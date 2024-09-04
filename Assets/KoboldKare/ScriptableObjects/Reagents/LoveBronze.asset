@@ -24,7 +24,7 @@ MonoBehaviour:
   color: {r: 1, g: 0.31, b: 0.37899995, a: 1}
   emission: {r: 0.5332766, g: 0.30946895, b: 0.082282715, a: 0}
   value: 0.5
-  metabolizationHalfLife: 30
+  metabolizationHalfLife: 5
   cleaningAgent: 0
   calories: 0
   display: {fileID: 0}
@@ -33,26 +33,14 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+    - rid: 4240487684347002880
+      type: {class: ConversionReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 1.5
+        ConvertToReagent: {fileID: 11400000, guid: 6a3ddb5dbc12f7e4b9c3e396cd58f3e9,
+          type: 2}
     - rid: 8146302006955343874
       type: {class: CustomReagentConsumptionEvent, ns: , asm: Assembly-CSharp}
       data:
         Effects:
-        - rid: 8146302006955343875
-        - rid: 8146302006955343876
-        - rid: 8146302073586581504
-    - rid: 8146302006955343875
-      type: {class: ConversionReagentEffect, ns: , asm: Assembly-CSharp}
-      data:
-        Multiplier: 1
-        ConvertToReagent: {fileID: 11400000, guid: 6a3ddb5dbc12f7e4b9c3e396cd58f3e9,
-          type: 2}
-    - rid: 8146302006955343876
-      type: {class: ConversionReagentEffect, ns: , asm: Assembly-CSharp}
-      data:
-        Multiplier: 1
-        ConvertToReagent: {fileID: 11400000, guid: 7050fa3c7c0ca8d46b999444b7474c4e,
-          type: 2}
-    - rid: 8146302073586581504
-      type: {class: BellySizeReagentEffect, ns: , asm: Assembly-CSharp}
-      data:
-        Multiplier: 5
+        - rid: 4240487684347002880

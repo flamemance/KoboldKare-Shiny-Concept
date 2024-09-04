@@ -36,4 +36,4 @@ MonoBehaviour:
     - rid: 8146302031642230785
       type: {class: YogurtConsumption, ns: , asm: Assembly-CSharp}
       data:
-        maxPerGeneration: 50
+        maxPerGeneration: 20

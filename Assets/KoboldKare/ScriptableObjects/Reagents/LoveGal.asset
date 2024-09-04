@@ -42,7 +42,7 @@ MonoBehaviour:
     - rid: 8146302006955343875
       type: {class: ConversionReagentEffect, ns: , asm: Assembly-CSharp}
       data:
-        Multiplier: 1.25
+        Multiplier: 10
         ConvertToReagent: {fileID: 11400000, guid: 6a3ddb5dbc12f7e4b9c3e396cd58f3e9,
           type: 2}
     - rid: 8146302031642230784

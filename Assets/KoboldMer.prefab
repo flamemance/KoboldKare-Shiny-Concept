@@ -610,7 +610,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2698499751266502430}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -163.951, y: 18.297, z: 299.741}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -704,7 +704,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 2048
   heartPrefab:
-    gameObject: {fileID: 6056941379527732537, guid: 861cd39fe822136418b951562acc3ae3,
+    gameObject: {fileID: 8202712864584961897, guid: 721ffd8516417e34aa1dffb3553b5abd,
       type: 3}
     optionalDatabase: {fileID: 0}
   tummyGrumbles: {fileID: 11400000, guid: 67a1644657f256b47ab2a61a75c069d6, type: 2}
@@ -2465,6 +2465,11 @@ PrefabInstance:
       propertyPath: m_AABB.m_Extent.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -227216338107497909, guid: f7ada51eab3f03e408f76a632dd64539,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3ea3a032ed860e7479be0f6e318a1a09, type: 2}
     - target: {fileID: -227216338107497909, guid: f7ada51eab3f03e408f76a632dd64539,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.size

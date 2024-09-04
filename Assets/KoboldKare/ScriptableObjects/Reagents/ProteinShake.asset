@@ -36,7 +36,7 @@ MonoBehaviour:
     - rid: 8146302006955343886
       type: {class: CustomConsumptionDiscreteTrigger, ns: , asm: Assembly-CSharp}
       data:
-        requiredCumulativeReagent: 60
+        requiredCumulativeReagent: 20
         maximumTriggerCount: -1
         Effects:
         - rid: 8146302006955343887

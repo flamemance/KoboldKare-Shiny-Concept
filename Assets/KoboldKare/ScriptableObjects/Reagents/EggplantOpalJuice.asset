@@ -41,4 +41,4 @@ MonoBehaviour:
     - rid: 8146302006955343885
       type: {class: DickSizeReagentEffect, ns: , asm: Assembly-CSharp}
       data:
-        Multiplier: 3
+        Multiplier: 3.5

@@ -76,7 +76,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 536397473936389651}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -163.951, y: 18.062, z: 299.741}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2465,6 +2465,11 @@ PrefabInstance:
       propertyPath: m_AABB.m_Extent.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -227216338107497909, guid: f7ada51eab3f03e408f76a632dd64539,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8ed11d8e920379b40bb5637a551b59ab, type: 2}
     - target: {fileID: -227216338107497909, guid: f7ada51eab3f03e408f76a632dd64539,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.size

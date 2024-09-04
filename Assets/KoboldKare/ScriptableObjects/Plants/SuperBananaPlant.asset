@@ -53,7 +53,7 @@ MonoBehaviour:
     minProduce: 1
     maxProduce: 1
   - prefab:
-      gameObject: {fileID: 1744535528970206803, guid: beb555c5b5fa3ae479a79e174733f1df,
+      gameObject: {fileID: 2114371537680063611, guid: 6cb9c2a296241b240aeea3c6de619567,
         type: 3}
       optionalDatabase: {fileID: 0}
     minProduce: 0
