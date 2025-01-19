@@ -22,7 +22,7 @@ MonoBehaviour:
     m_WaitForCompletion: 0
     m_LocalVariables: []
   color: {r: 0.6116485, g: 0.26379493, b: 0.9811321, a: 1}
-  emission: {r: 1, g: 1, b: 0.19, a: 1}
+  emission: {r: 1, g: 1, b: 0.19120172, a: 0}
   value: 0.25
   metabolizationHalfLife: 30
   cleaningAgent: 0

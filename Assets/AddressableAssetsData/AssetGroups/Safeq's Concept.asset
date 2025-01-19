@@ -80,13 +80,6 @@ MonoBehaviour:
     - default
     - Reaction
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b11bfe9d05557a54089a67accb884668
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/PotassiumBronze.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reagent
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b9929ad3be201354098345fad0ee8820
     m_Address: Assets/EggBronze.prefab
     m_ReadOnly: 0
@@ -212,13 +205,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - default
     - Reagent
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b4c0c2d14e9588a48a4404665a93f82c
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/GroundBeefPotassiumBronzeReaction.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reaction
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 803a4bac87e7911428c3ec6693ed777c
     m_Address: Assets/KoboldBronze.prefab

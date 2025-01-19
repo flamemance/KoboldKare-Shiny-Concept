@@ -324,7 +324,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 516099198980
-    m_Key: REAGENT_MELON_JUICE
+    m_Key: REAGENT_BRONZE_JUICE
     m_Metadata:
       m_Items: []
   - m_Id: 516099198981
@@ -344,7 +344,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 516099198985
-    m_Key: REAGENT_EGG
+    m_Key: REAGENT_EGG_BRONZE
     m_Metadata:
       m_Items: []
   - m_Id: 516099198986

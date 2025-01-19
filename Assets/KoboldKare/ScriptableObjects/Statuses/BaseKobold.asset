@@ -47,4 +47,5 @@ MonoBehaviour:
   stacks: 0
   duration: Infinity
   references:
-    version: 1
+    version: 2
+    RefIds: []

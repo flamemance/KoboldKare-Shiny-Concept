@@ -98,13 +98,6 @@ MonoBehaviour:
     - default
     - Reagent
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 184e46f7212eb4546aec60f37f37c1ff
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/PotassiumSilver.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reagent
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: af1c53d7c377c80428436869776651d8
     m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/MelonSilverJuice.asset
     m_ReadOnly: 0
@@ -742,20 +735,6 @@ MonoBehaviour:
     - default
     - Reaction
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b151bde34ac5f05418ed7b3ff4751c73
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Concoction.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reagent
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c26a1dcc65916084f9c6cbfecbe4387f
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/HeavyBlendPotassiumOpalReaction.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reaction
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3c32451e136a98b4cb63c92e971c6094
     m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/SuperMelonGoldJuice.asset
     m_ReadOnly: 0
@@ -797,48 +776,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - default
     - Reagent
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: acd5b55756a853b478018ae16a1bcd7d
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/ConcoctionMelonGoldReaction.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reaction
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 32ce9acc7d6e0854ab0fbedf7b6a7ebd
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/ConcoctionMelonObsReaction.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reaction
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4b18ea13023cef74e99d2607e8301213
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/ConcoctionMelonOpalReaction.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reaction
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 81ec13f95931a054b992f87b25d56c76
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/ConcoctionPineappleGoldReaction.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reaction
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8a7ce841e11992f428b3262adb7d73dd
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/ConcoctionPineappleObsReaction.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reaction
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3d4268625ba5acb45b8a71e5002a01be
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/ConcoctionPineappleOpalReaction.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reaction
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b67f668a28b55cb4ca373c0a607abac3
     m_Address: Assets/EggEmerald.prefab
