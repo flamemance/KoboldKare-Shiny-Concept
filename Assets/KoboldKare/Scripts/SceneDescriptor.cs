@@ -1,10 +1,6 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using Photon.Pun;
 using UnityEngine;
 using UnityEngine.Rendering.Universal;
-using UnityScriptableSettings;
 using Random = UnityEngine.Random;
 
 [RequireComponent(typeof(ObjectiveManager))]
@@ -19,11 +15,16 @@ public class SceneDescriptor : OrbitCameraPivotBase {
     
     [SerializeField] private Transform[] spawnLocations;
     [SerializeField] private bool canGrabFly = true;
-    [SerializeField, SerializeReference, SerializeReferenceButton] private OrbitCameraConfiguration baseCameraConfiguration;
+    [SerializeField, SerializeReference, SerializeReferenceButton, HideInInspector] private OrbitCameraConfiguration baseCameraConfiguration;
     private AudioListener audioListener;
     private OrbitCamera orbitCamera;
 
-    private void Awake() {
+    public override OrbitCameraData GetData(Camera cam) {
+        return baseCameraConfiguration?.GetData(cam) ?? new OrbitCameraData(){};
+    }
+
+    protected override void Awake() {
+        base.Awake();
         //Check if instance already exists
         if (instance == null) {
             //if not, set instance to this
@@ -34,16 +35,17 @@ public class SceneDescriptor : OrbitCameraPivotBase {
             Destroy(gameObject);
             return;
         }
-
-        //var obj = new GameObject("AutoAudioListener", typeof(AudioListenerAutoPlacement), typeof(AudioListener));
-        //audioListener = obj.GetComponent<AudioListener>();
+        
+        var configuration = new OrbitCameraBasicConfiguration();
+        var pivot = new GameObject("OrbitCameraPivot", typeof(OrbitCameraPivotBasic));
+        configuration.SetPivot(pivot.GetComponent<OrbitCameraPivotBase>());
+        OrbitCamera.AddConfiguration(configuration);
+        
         var orbitCamera = new GameObject("OrbitCamera", typeof(Camera), typeof(UniversalAdditionalCameraData), typeof(OrbitCamera), typeof(AudioListener), typeof(CameraConfigurationListener)) {
             layer = LayerMask.NameToLayer("Default")
         };
+        orbitCamera.tag = "MainCamera";
 
-        if (baseCameraConfiguration != null) {
-            OrbitCamera.AddConfiguration(baseCameraConfiguration);
-        }
     }
 
     public static void GetSpawnLocationAndRotation(out Vector3 position, out Quaternion rotation) {

@@ -1,16 +1,13 @@
-using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.Globalization;
-using System.IO;
 using System.Text;
+using ExitGames.Client.Photon;
 using Photon.Pun;
+using Photon.Realtime;
 using UnityEngine;
 
 public class CheatsProcessor : MonoBehaviour {
     private static CheatsProcessor instance;
-    private bool cheatsEnabled = false;
     [SerializeField, SerializeReference, SerializeReferenceButton]
     private List<Command> commands;
     private const int maxLength = 10000;
@@ -39,11 +36,15 @@ public class CheatsProcessor : MonoBehaviour {
     }
 
     public static void SetCheatsEnabled(bool cheatsEnabled) {
-        instance.cheatsEnabled = cheatsEnabled;
+        RaiseEventOptions raiseEventOptions = new RaiseEventOptions() {
+            CachingOption = EventCaching.AddToRoomCache,
+            Receivers = ReceiverGroup.All,
+        };
+        PhotonNetwork.RaiseEvent(NetworkManager.CustomCheatEvent, cheatsEnabled, raiseEventOptions, new SendOptions() { Reliability = true });
     }
 
     public static bool GetCheatsEnabled() {
-        return instance.cheatsEnabled || Application.isEditor;
+        return (Application.isEditor && PhotonNetwork.IsMasterClient) || NetworkManager.instance.GetCheatsEnabled();
     }
 
     public static ReadOnlyCollection<Command> GetCommands() {
@@ -93,7 +94,7 @@ public class CheatsProcessor : MonoBehaviour {
     }
 
     public static void ProcessCommand(Kobold kobold, string command) {
-        if (!PhotonNetwork.IsMasterClient) {
+        if (kobold == null || kobold != (Kobold)PhotonNetwork.LocalPlayer.TagObject) {
             return;
         }
         string[] args = command.Split(' ');
