@@ -38,13 +38,6 @@ MonoBehaviour:
     - default
     - Reaction
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: cce81e2ffce538c4d837b18ee8d0a4af
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/PotassiumYogurtReaction.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reaction
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7276a6a9de16a2c4f9ad7a4cb7c5de53
     m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/BananaYogurt.asset
     m_ReadOnly: 0
@@ -142,12 +135,6 @@ MonoBehaviour:
     - default
     - Reagent
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 09e260e6dc0bd574da7f2070cbedf92e
-    m_Address: Assets/MelonBronze.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Fruit
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: da64fe0cbacbd0f47a8778684a438880
     m_Address: Assets/HeartBronze.prefab
     m_ReadOnly: 0
@@ -160,12 +147,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - default
     - Reagent
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4afea18e10edbe24185fb9026699596a
-    m_Address: Assets/PineappleBronze.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Fruit
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3b908b59457741e46ac8997a7e4063df
     m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/PineappleBronzeJuice.asset
@@ -180,18 +161,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - default
     - Reagent
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 188eae9f67f21684dbbe0baec73d100f
-    m_Address: Assets/EggplantBronze.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Fruit
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 2d7079c577c2f8d4d9ef9aae64c802a2
-    m_Address: Assets/BananaBronze.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Fruit
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 40394074b4f155642a9994984010b6e9
     m_Address: Assets/TroughBronze.prefab

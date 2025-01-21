@@ -22,40 +22,10 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 44ef453faac3e9f458bfcbb57802fed4
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/MushroomBoobBronzeJuice.asset
+  - m_GUID: 7c26586901d830e48b2edfb9dac6d6a3
+    m_Address: Assets/SuperPumpStation.prefab
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - Reagent
-    - default
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5674a1d89063d864ebfb2d8a2cdb68b7
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Bronze Drinks/ScrambledEggBronze.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reagent
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0321180a595bc4247a365c3a2eaf48f9
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Bronze Drinks/EggBronze.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reagent
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 017d509c49193884e8a8a5c2508df6e8
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Bronze/BronzeEggReaction.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reaction
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e2bd3b59fd1177f40a386d8d093a503e
-    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Bronze Drinks/BronzeJuice.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - default
-    - Reagent
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}

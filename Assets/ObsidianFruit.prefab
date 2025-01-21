@@ -108,7 +108,7 @@ MonoBehaviour:
   gibSplash: {fileID: 4785729701484657558, guid: ffc10736419710a428fc41240fe5f2fe,
     type: 3}
   startingReagent:
-    reagent: {fileID: 11400000, guid: c806765690bc07441af25899ec10fc00, type: 2}
+    reagent: {fileID: 11400000, guid: 78daf6956da78774abd4c08a22ede93e, type: 2}
     volume: 20
   fruitInflater:
     bounce: {fileID: 11400000, guid: e18312d1b399ef44cbae03acd0a32afb, type: 2}

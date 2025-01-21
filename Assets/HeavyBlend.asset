@@ -40,9 +40,9 @@ MonoBehaviour:
         maximumTriggerCount: -1
         Effects:
         - rid: 8146301984734445570
+        - rid: 8146301984734445573
         - rid: 8146301984734445571
         - rid: 8146301984734445572
-        - rid: 8146301984734445573
         - rid: 8146301984734445574
     - rid: 8146301984734445570
       type: {class: CumReagentEffect, ns: , asm: Assembly-CSharp}

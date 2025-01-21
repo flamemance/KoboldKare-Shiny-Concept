@@ -33,6 +33,10 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+    - rid: 3073363074744844288
+      type: {class: MetabolizeCapacityReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 1
     - rid: 8146301976570757137
       type: {class: CustomConsumptionDiscreteTrigger, ns: , asm: Assembly-CSharp}
       data:
@@ -43,6 +47,7 @@ MonoBehaviour:
         - rid: 8146301976570757139
         - rid: 8146301976570757140
         - rid: 8146301976570757141
+        - rid: 3073363074744844288
     - rid: 8146301976570757138
       type: {class: BallSizeReagentEffect, ns: , asm: Assembly-CSharp}
       data:
@@ -58,6 +63,6 @@ MonoBehaviour:
     - rid: 8146301976570757141
       type: {class: ConversionReagentEffect, ns: , asm: Assembly-CSharp}
       data:
-        Multiplier: 0.5
+        Multiplier: 1
         ConvertToReagent: {fileID: 11400000, guid: bed8fc8dad7da90439bc44080ddb0e6f,
           type: 2}
