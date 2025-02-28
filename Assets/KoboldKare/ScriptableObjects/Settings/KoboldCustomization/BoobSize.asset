@@ -22,7 +22,7 @@ MonoBehaviour:
     m_WaitForCompletion: 0
     m_LocalVariables: []
   group: {fileID: 11400000, guid: 6489b155b99595a46a9b437ff1f744c1, type: 2}
-  defaultValue: 0.6
+  defaultValue: 0.5
   min: 0
   max: 1
   references:

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 757ca47f379963246843acce6f01e18f, type: 3}
+  m_Name: Evol
+  m_EditorClassIdentifier: 
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  color: {r: 1, g: 0.31, b: 0.37899995, a: 1}
+  emission: {r: 0.04672481, g: 0.16300403, b: 0.4716981, a: 0}
+  value: 0.5
+  metabolizationHalfLife: 5
+  cleaningAgent: 0
+  calories: 0
+  display: {fileID: 0}
+  consumptionEvent:
+    rid: 4240487684347002894
+  references:
+    version: 2
+    RefIds:
+    - rid: 4240487684347002894
+      type: {class: CustomReagentConsumptionEvent, ns: , asm: Assembly-CSharp}
+      data:
+        Effects:
+        - rid: 4240487684347002895
+        - rid: 4240487684347002896
+    - rid: 4240487684347002895
+      type: {class: ConversionReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 1
+        ConvertToReagent: {fileID: 11400000, guid: cf45304516a585b41b686355a8ecd9b0,
+          type: 2}
+    - rid: 4240487684347002896
+      type: {class: ConversionReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 2
+        ConvertToReagent: {fileID: 11400000}

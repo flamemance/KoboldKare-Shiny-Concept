@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Safeq's Concept
+  m_EditorClassIdentifier: 
+  m_GroupName: Safeq's Concept
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6c634d4a231b80c45bd19350afc8084c
+  m_SerializeEntries:
+  - m_GUID: b2185ba9cd94f2b4b9b8546a45438c46
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/New Reagent.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b92522a93ba850c40b992c6dd2f90ccd
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Beckfest.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 864bb410059ed8d43a22ca01dcdab4f8
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/EggDinnerEggplantReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7276a6a9de16a2c4f9ad7a4cb7c5de53
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/BananaYogurt.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2dace9d426e74254c9445e0c7ceaf8a2
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Parfait.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a542b97602ba65f43b70774a95dfa7e7
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/WatermelonPineappleEggplantYogurtReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bcd412aab320c247bcf0cb378670d44
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Aphrodisiac.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec19f0b593a18224a84705b320aef4da
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/GrowthSerumPineapplePotassiumReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9929ad3be201354098345fad0ee8820
+    m_Address: Assets/EggBronze.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffab82cda8b105a46b27ace89f2e8d99
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/EggBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31956c145e8fff44e81908bca0eae7a9
+    m_Address: Assets/KoboldKare/Textures/KoboldBronze_low_KoboldBody_BaseMap.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87974afff7d5eac43befb5824d9d6378
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/KoboldBuriedBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c544aade061a554cbf342499429960d
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/KoboldSpawnPlantBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6602f38d6c6253440a8bc1867856083c
+    m_Address: Assets/BucketBronze.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7050fa3c7c0ca8d46b999444b7474c4e
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/HeavyBlend.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 647351038d16a444a9eef6c650e0860f
+    m_Address: Assets/KoboldKare/ScriptableObjects/PlayableMaps/MainMap(ShinyConcept)).asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableMap
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7f7b6392eecd58428945d30cd89200d
+    m_Address: Assets/MainMapWithBenefits.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7687922804db75e4da41e21fac690667
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/LoveBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da64fe0cbacbd0f47a8778684a438880
+    m_Address: Assets/HeartBronze.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a7edb0a0bb0a3f42a31aec71b2dac2b
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/ProteinShake.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b908b59457741e46ac8997a7e4063df
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/PineappleBronzeJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bed8c93efca65a447b5b0369f6d1bac3
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/EggplantBronzeJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40394074b4f155642a9994984010b6e9
+    m_Address: Assets/TroughBronze.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88a1169ce451c6145877d499f3e32659
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/MelonBronzeJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 803a4bac87e7911428c3ec6693ed777c
+    m_Address: Assets/KoboldBronze.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a443cd38ec192d340ab2420bf87b3e8d, type: 2}
+    - {fileID: 11400000, guid: e84930ff0fcb6034cae434fe291df0cc, type: 2}

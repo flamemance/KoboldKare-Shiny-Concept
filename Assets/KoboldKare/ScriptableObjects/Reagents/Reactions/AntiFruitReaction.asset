@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32869a6bcc471024096a008764badf8f, type: 3}
+  m_Name: AntiFruitReaction
+  m_EditorClassIdentifier: 
+  reactions: []
+  reactants:
+  - reactant: {fileID: 11400000, guid: 2cbf37ccbab92514b8ee7055775c437a, type: 2}
+    coefficient: 1
+  - reactant: {fileID: 11400000, guid: c8700232f0642ea46b0e771e2d8d1c0a, type: 2}
+    coefficient: 1
+  - reactant: {fileID: 11400000, guid: 2cb506d2264fab2429e422b33886e092, type: 2}
+    coefficient: 1
+  - reactant: {fileID: 11400000, guid: b4795423481e3994d9ebc2beb396e784, type: 2}
+    coefficient: 10
+  products:
+  - reactant: {fileID: 11400000, guid: e10ef4ba85470b845a4e7d332eae944a, type: 2}
+    coefficient: 1
+  references:
+    version: 2
+    RefIds: []

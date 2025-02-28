@@ -22,18 +22,7 @@ MonoBehaviour:
     m_WaitForCompletion: 1
     m_LocalVariables: []
   group: {fileID: 11400000, guid: 6489b155b99595a46a9b437ff1f744c1, type: 2}
-  OnSettingDisabled:
-    m_PersistentCalls:
-      m_Calls: []
-  OnSettingEnabled:
-    m_PersistentCalls:
-      m_Calls: []
-  OnSettingChanged:
-    m_PersistentCalls:
-      m_Calls: []
   defaultValue: 0
-  minValue: 0
-  maxValue: 1
   dropdownOptions:
   - m_TableReference:
       m_TableCollectionName: GUID:7b0547fe1d039e3448e29797d2fc4463
@@ -52,4 +41,5 @@ MonoBehaviour:
     m_WaitForCompletion: 0
     m_LocalVariables: []
   references:
-    version: 1
+    version: 2
+    RefIds: []
