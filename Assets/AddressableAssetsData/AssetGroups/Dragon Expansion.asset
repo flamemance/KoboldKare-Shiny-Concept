@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Dragon Expansion
+  m_EditorClassIdentifier: 
+  m_GroupName: Dragon Expansion
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0e27382c7176ec34781a60d2aaa25f67
+  m_SerializeEntries:
+  - m_GUID: 428672ee7b0ed7e4eacd7c6ab6c9a847
+    m_Address: Assets/Dragon/Luv.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78e4c5d551429444c98e52f8b52a22fc
+    m_Address: Assets/Dragon/Kum.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e192d5b7cb30c3468d0e68b70f10324
+    m_Address: Assets/Dragon/DragonHeart.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9503e0aec5c5dc748a3f196409f9505a
+    m_Address: Assets/Dragon/EggDragon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33f805cf1cb89d648a3f14c65b6d23b9
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/EggDragon.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65793bce75304c24cbe5c59b00ac2fed
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/DragonSpawnPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdb9e692690a0414d836d773b5e0c356
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/DragonBuried.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d8657b96ba5e6549af9ca4002da7b2c
+    m_Address: Assets/Dragon/Dragon.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cf2624d472eed446a0ecfc8021e21e0
+    m_Address: Assets/DRAGON/BarrelContainer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4414163fa8b929d41831d7e324af829f
+    m_Address: Assets/DRAGON/Tun.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a0b5fc43e22df734a990da73ce328a4a, type: 2}
+    - {fileID: 11400000, guid: 97f2ecf3f713a654383fb8f248954916, type: 2}

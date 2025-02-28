@@ -1,0 +1,631 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &11270177027937416
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2176406346691936701}
+  m_Layer: 0
+  m_Name: Balls2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2176406346691936701
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 11270177027937416}
+  m_LocalRotation: {x: 0.0009414871, y: 0.009442303, z: 0.0000049061764, w: 0.999955}
+  m_LocalPosition: {x: 2.4268093e-10, y: 0.604145, z: 0.0000000512225}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9216319382358610843}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &160782427966016637
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5458013592503100527}
+  m_Layer: 0
+  m_Name: BallRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5458013592503100527
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160782427966016637}
+  m_LocalRotation: {x: -0.0000010281803, y: 0.0000017881375, z: 6.712853e-12, w: 1}
+  m_LocalPosition: {x: 0.0000007714276, y: 0.07310286, z: 0.11768632}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9216319382358610843}
+  m_Father: {fileID: 2847086162224386602}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1331720827790043778
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5562374043460997494}
+  m_Layer: 0
+  m_Name: Hips
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5562374043460997494
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1331720827790043778}
+  m_LocalRotation: {x: 0.6966351, y: -0.000002309144, z: -0.0000022422262, w: 0.71742564}
+  m_LocalPosition: {x: 0.000001612078, y: -0.49563256, z: 1.8201193}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2847086162224386602}
+  - {fileID: 757490967776759789}
+  m_Father: {fileID: 881205268967335732}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2272717055008570509
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 757490967776759789}
+  m_Layer: 0
+  m_Name: PenisMid
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &757490967776759789
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2272717055008570509}
+  m_LocalRotation: {x: 0.000000029802319, y: 1.13686824e-13, z: -1.13686824e-13, w: 1}
+  m_LocalPosition: {x: 0.004, y: -0.21, z: 0.816}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6111851032200830561}
+  m_Father: {fileID: 5562374043460997494}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2996319077864657505
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2512657847450929371}
+  - component: {fileID: 227955206760095068}
+  - component: {fileID: 153038672885523042}
+  - component: {fileID: 480869137466054946}
+  - component: {fileID: 5332462593168789972}
+  m_Layer: 0
+  m_Name: DragonDick
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2512657847450929371
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2996319077864657505}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.40000004, y: 0.40000004, z: 0.40000004}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 881205268967335732}
+  - {fileID: 4756380316771564299}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &227955206760095068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2996319077864657505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d76f24409a39604ca3986f91ce6d28a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jiggleUpdateMode: 0
+  <blend>k__BackingField: 1
+  jiggleRigs:
+  - rootTransform: {fileID: 2847086162224386602}
+    jiggleSettings: {fileID: 11400000, guid: d081ebe3eba24584dbb41d9ebe1c8116, type: 2}
+    ignoredTransforms: []
+    colliders: []
+    animated: 0
+  - rootTransform: {fileID: 9216319382358610843}
+    jiggleSettings: {fileID: 11400000, guid: d943a7f4642c57f4b879d9bf693868ec, type: 2}
+    ignoredTransforms: []
+    colliders: []
+    animated: 0
+  wind: {x: 0, y: 0, z: 0}
+  debugDraw: 0
+--- !u!114 &153038672885523042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2996319077864657505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a7e8f42d640dd4e9bb9648a7e6b732, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localRootForward: {x: 0, y: 0.8266817, z: -0.5626699}
+  localRootUp: {x: 0, y: 0.5626699, z: 0.8266817}
+  localRootRight: {x: -1, y: -0, z: 0}
+  rootBone: {fileID: 2847086162224386602}
+  targetRenderers:
+  - renderer: {fileID: 8277040452170185499}
+    mask: -1
+  virtualSquashAndStretch: 0.99510276
+  girthUnwrapShader: {fileID: 4800000, guid: 14e0a43a18459694a816fde3a7abd01a, type: 3}
+  penetratedHole: {fileID: 5332462593168789972}
+  penetrationMarginOfError: 0.5
+  autoPenetrate: 3
+  ignorePenetrables: []
+  listeners:
+  - rid: 350137796882071573
+  - rid: 350137796882071574
+  - rid: 350137796882071575
+  middlePoseTarget: {fileID: 757490967776759789}
+  tipTarget: {fileID: 6111851032200830561}
+  references:
+    version: 2
+    RefIds:
+    - rid: 350137796882071573
+      type: {class: PenetratorKnotSquisher, ns: PenetrationTech, asm: Naelstrof.PenetrationTech}
+      data:
+        knotForceFactor: 0.5
+        friction: 2.5
+        force: 12
+        elasticity: 30
+    - rid: 350137796882071574
+      type: {class: PenetratorAudioPackListener, ns: , asm: Assembly-CSharp}
+      data:
+        localDistanceFromTipOfDick: 1
+        pack: {fileID: 11400000, guid: d035a4d1ac446f4469be99a8da0d16ff, type: 2}
+        activateOnEnter: 0
+        activateOnExit: 1
+    - rid: 350137796882071575
+      type: {class: PenetratorAudioPackListener, ns: , asm: Assembly-CSharp}
+      data:
+        localDistanceFromTipOfDick: 0
+        pack: {fileID: 11400000, guid: 348362a85013f4b46b98a806ae70841f, type: 2}
+        activateOnEnter: 1
+        activateOnExit: 0
+--- !u!114 &480869137466054946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2996319077864657505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6051016ef15b0a645988afb75ea09aad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  equipmentInstanceID: 0
+  dicks:
+  - dickContainer: {fileID: 2512657847450929371}
+    dick: {fileID: 153038672885523042}
+    ballSizeInflater:
+      bounce: {fileID: 11400000, guid: 8bb8ec1eabdcb7043a4605858f604a8a, type: 2}
+      listeners:
+      - rid: 350137796882071576
+    dickSizeInflater:
+      bounce: {fileID: 11400000, guid: 8bb8ec1eabdcb7043a4605858f604a8a, type: 2}
+      listeners:
+      - rid: 350137796882071577
+    bonerInflater:
+      bounce: {fileID: 11400000, guid: 049836be855ee594e900eddfc3778e1f, type: 2}
+      listeners:
+      - rid: 350137796882071579
+    attachPoint: 0
+    cumSplatProjectorMaterial: {fileID: 2100000, guid: 274ee3d452dc0c548a30e3e4f93791a4,
+      type: 2}
+    attachPosition: {x: 0, y: 0.75, z: 0.15}
+    cumSoundPack: {fileID: 11400000, guid: 6a026e8e8fe32d948a722fccae91b39a, type: 2}
+    descriptor: {fileID: 0}
+    shouldDisableVagina: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 350137796882071576
+      type: {class: InflatableTransform, ns: Naelstrof.Inflatable, asm: com.naelstrof.inflatable}
+      data:
+        targetTransform: {fileID: 2176406346691936701}
+    - rid: 350137796882071577
+      type: {class: InflatableTransform, ns: Naelstrof.Inflatable, asm: com.naelstrof.inflatable}
+      data:
+        targetTransform: {fileID: 4097053928938224780}
+    - rid: 350137796882071579
+      type: {class: BonerInflatable, ns: , asm: Assembly-CSharp}
+      data:
+        limpBlendshape: Chubby
+        flaccidBlendshape: Sheathed
+        targetRenderers:
+        - {fileID: 8277040452170185499}
+        rigBuilder: {fileID: 227955206760095068}
+--- !u!114 &5332462593168789972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2996319077864657505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e0550636f1faf54ea9fada34b07cd10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  points:
+  - {fileID: 6111851032200830561}
+  - {fileID: 757490967776759789}
+  listeners:
+  - rid: 350137796882071580
+  - rid: 350137796882071581
+  - rid: 350137796882071582
+  - rid: 350137796882071584
+  actualHoleStartT: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 350137796882071580
+      type: {class: LengthwiseBlendshapeListener, ns: PenetrationTech, asm: Naelstrof.PenetrationTech}
+      data:
+        t: 0
+        targets:
+        - skinnedMeshRenderer: {fileID: 8277040452170185499}
+          blendshapeName: TipOpen
+          blendshapeID: 0
+        blendShapeTDepth: 0.15
+        overdrive: 1
+    - rid: 350137796882071581
+      type: {class: LengthwiseBlendshapeListener, ns: PenetrationTech, asm: Naelstrof.PenetrationTech}
+      data:
+        t: 0.3
+        targets:
+        - skinnedMeshRenderer: {fileID: 8277040452170185499}
+          blendshapeName: + TipOpenMore
+          blendshapeID: 1
+        - skinnedMeshRenderer: {fileID: 8277040452170185499}
+          blendshapeName: + TipOpenMore 2
+          blendshapeID: 2
+        blendShapeTDepth: 0.2
+        overdrive: 1
+    - rid: 350137796882071582
+      type: {class: LengthwiseBlendshapeListener, ns: PenetrationTech, asm: Naelstrof.PenetrationTech}
+      data:
+        t: 0.6
+        targets:
+        - skinnedMeshRenderer: {fileID: 8277040452170185499}
+          blendshapeName: + TipOpenMore 3
+          blendshapeID: 3
+        blendShapeTDepth: 0.2
+        overdrive: 1
+    - rid: 350137796882071584
+      type: {class: PassiveAudioPenetrable, ns: , asm: Assembly-CSharp}
+      data:
+        t: 0.5
+        playPack: {fileID: 11400000, guid: 348362a85013f4b46b98a806ae70841f, type: 2}
+        delayVariance: 2
+--- !u!1 &3125942207874779758
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9216319382358610843}
+  m_Layer: 0
+  m_Name: Balls1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9216319382358610843
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3125942207874779758}
+  m_LocalRotation: {x: 0.4078023, y: -0.0019304266, z: -0.0008633944, w: 0.9130678}
+  m_LocalPosition: {x: 0.0000016420888, y: 0.296062, z: 0.008858144}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2176406346691936701}
+  m_Father: {fileID: 5458013592503100527}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5191020772547637318
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4756380316771564299}
+  - component: {fileID: 8277040452170185499}
+  m_Layer: 0
+  m_Name: PllatedDick
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4756380316771564299
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5191020772547637318}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2512657847450929371}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &8277040452170185499
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5191020772547637318}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 3567654704343280484, guid: fcdde81017addaf4ab3d6ae80c415851, type: 3}
+  - {fileID: 6943296814805984848, guid: fcdde81017addaf4ab3d6ae80c415851, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -1360131674630079576, guid: fcdde81017addaf4ab3d6ae80c415851, type: 3}
+  m_Bones:
+  - {fileID: 5562374043460997494}
+  - {fileID: 2847086162224386602}
+  - {fileID: 4097053928938224780}
+  - {fileID: 5458013592503100527}
+  - {fileID: 9216319382358610843}
+  - {fileID: 2176406346691936701}
+  m_BlendShapeWeights:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  m_RootBone: {fileID: 5562374043460997494}
+  m_AABB:
+    m_Center: {x: 0.00020468235, y: -0.48738587, z: 0.90274894}
+    m_Extent: {x: 0.60584074, y: 0.97653353, z: 1.3586618}
+  m_DirtyAABB: 0
+--- !u!1 &5532865410644058099
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4097053928938224780}
+  m_Layer: 0
+  m_Name: Penis.001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4097053928938224780
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5532865410644058099}
+  m_LocalRotation: {x: -0.41991276, y: 0.0010383691, z: 0.0009717072, w: 0.9075634}
+  m_LocalPosition: {x: 0.003789047, y: 0.41976154, z: -0.16323283}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2847086162224386602}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5907219520353302928
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 881205268967335732}
+  m_Layer: 0
+  m_Name: DickRig
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &881205268967335732
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5907219520353302928}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5562374043460997494}
+  m_Father: {fileID: 2512657847450929371}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5973288422072965647
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6111851032200830561}
+  m_Layer: 0
+  m_Name: PenisTip
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6111851032200830561
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5973288422072965647}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.145, z: 0.972}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 757490967776759789}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6011634739678314152
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2847086162224386602}
+  m_Layer: 0
+  m_Name: DnBRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2847086162224386602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6011634739678314152}
+  m_LocalRotation: {x: 0.9179604, y: -0.000000010873716, z: -0.0000059811214, w: 0.39667204}
+  m_LocalPosition: {x: -0.0000008768838, y: -0.045589186, z: -0.13398114}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5458013592503100527}
+  - {fileID: 4097053928938224780}
+  m_Father: {fileID: 5562374043460997494}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

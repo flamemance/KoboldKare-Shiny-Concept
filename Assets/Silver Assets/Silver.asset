@@ -1,0 +1,355 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Silver
+  m_EditorClassIdentifier: 
+  m_GroupName: Silver
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fe62da084b185244ab6eaa6e6cace55a
+  m_SerializeEntries:
+  - m_GUID: ba16c1774baf1b44a8a39e46bbf867d1
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverEggplantReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 446118c2f17662a45880ba29104f5a43
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverEggplantReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36fda56fc8256f24590a895d5d5724be
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverGrowthSerumReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01b5b9419cf6da2429720995f7c1d268
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverGrowthSerumReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc754e4915d1e124c895c262de74a7b9
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverMelonReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2659b32de6cd7554285703396f5d0263
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverMelonRaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 956aa71a4889a7a48a6299a7974b4f14
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverMushroomBallJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6b2005a47e27a64ba972a80399fe88a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverMushroomBoobJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0b47f96d42a7d3428948ad62120b439
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverMushroomDickJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89507657e2a6a0747a51fc566ef9b0ba
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverMushroomJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e546c54971e45547be5b180a3cd1241
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverPineappleReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58f79a44f559a6d4dbc3f366daf778cf
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverPineappleReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ff6f8ae806541d49b8cdd0f60887692
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/SilverYogurtReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73645003bef2ae244bcc0979c8e0f94a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Silver/DoughBeef++Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 570bade3dc8f6dc46bc9e593277b71a5
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/PineappleJuice++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 461337e8140f03c4499f0b577c28b012
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/MushroomJuice++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c6d447719b24d644af5dddc8a6cd25c
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/MushroomDickJuice++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d2a23d3ff8aa374a915168bc216fc30
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/MushroomBoobJuice++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 563179965b851d8428fe6eb08a80e0a3
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/MushroomBallJuice++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd6e25fd1d0148c458baaab78cc6e7b5
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/MelonJuice^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86cc81e9c3dbc024ca4aaac3a8d06e19
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/MelonJuice++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8df7f8f03d0d90438ef83988a553e4e
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/GrowthSerum++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e969d4c446bf074996bea904fa543ce
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/EggplantJuice^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 419200f83b03ffe4fbe2e6b705d7dd5a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/EggplantJuice++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 555d63701d2ee13488654eaa56a75de2
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/Burger++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e63e624a5aa10847b30d19eb17fd1e0
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/Love++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 732b5408195c4df49bf1dfd3011dff31
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/GroundBeef++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f28cbdb824f5c04499b3449203ce8599
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/SuperSilverJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fba3ed112ae004947929c5d9a6cf1234
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/PineappleJuice^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e500196e3b9fc574a9f132b5c772e141
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/SilverJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78e057b8f60e2eb4e82b93f99f23f79e
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Silver Drinks/Yogurt++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1889b2868ebd29b498697a6e5001896f
+    m_Address: Assets/Silver Assets/Bucket++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 324aa62f1a5575643a18c8f5589635c1
+    m_Address: Assets/Silver Assets/Steak++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0eeacb3a0e531404da1ea3288816cf0b
+    m_Address: Assets/Silver Assets/Fish++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72cf10e0619fd034ba5ba41ad68c65c0
+    m_Address: Assets/Silver Assets/Egg++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb9e7425264f3694493a4fe7a7b26911
+    m_Address: Assets/Silver Assets/Heart++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27d70da63c996ab4699b3f9b547dbcc1
+    m_Address: Assets/Silver Assets/Kobold++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 430e97a92bee4494ea6ec3a6d241d1fd
+    m_Address: Assets/Silver Assets/ShiningSilverFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10942b720e5dde843b4147f6998ba054
+    m_Address: Assets/Silver Assets/SilverFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9f484c1e0ab1e849ac529555c894932
+    m_Address: Assets/Silver Assets/SilverSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Seed
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54278a0733efb1e44be6526827b24d18
+    m_Address: Assets/Silver Assets/Trough++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00d2a6087ae6c7147a54082872f8c561
+    m_Address: Assets/Silver Assets/WateringCan++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18f12b40d69952c4c97216a3e0581902
+    m_Address: Assets/Silver Assets/SpaceBeamSilver.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0578150aef2372b429b5598b822407d0
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/EggSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 173c0810f5b54794fac4dc8c4c09c179
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/KoboldBuriedSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0463a3fa10ef7d439e39055bf58ea93
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/KoboldSpawnPlantSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e3290bbfe5ee5e46ac7ed6a8b045e78
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SilverMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2e4f1d9f50e98d4e92ee459cc22b4a3
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SilverPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5180e6fdcbbd2014791eb1b9bbfa4639
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/SilverSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 325f99f3bdcd61f45b9a742fec65d8df, type: 2}
+    - {fileID: 11400000, guid: cf7ffe8cf64753540a1dc230fac5c12b, type: 2}

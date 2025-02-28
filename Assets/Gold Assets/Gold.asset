@@ -1,0 +1,349 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Gold
+  m_EditorClassIdentifier: 
+  m_GroupName: Gold
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c64034ef28db84e43b753c85d8b17f3c
+  m_SerializeEntries:
+  - m_GUID: 59245ac9dea91174eb14969d8c044bb9
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/EggGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ab394fb3ec802c4d935339d43566001
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/KoboldBuriedGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 395c2a6d2d469b647a0aafe61a9cc769
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/KoboldSpawnPlantGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bc8e41b37edfb94d8f1809bd7880b8d
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/DoughBeef+++Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78669817e59278b40bf33601e89e7307
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldEggplantReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f345d0c52a9bfa4b896dd045ce1f099
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldEggplantReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e68562017a718a145bfc27d79b9b864c
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldGrowthSerumReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ba1991343e6ee24b992e3c7fe6da81f
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldGrowthSerumReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 865de4cd9cdf06a4b9e4f064ca292eb6
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldMelonRaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af7eb060234eb714f93827e4025ef810
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldMelonReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d12a358fdfec9fd4ea221dba093d976f
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldMushroomBallJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d7e1869a1094ab4789508395d0c22bc
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldMushroomBoobJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 592a9a3a51074c14f949a18b3dc386df
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldMushroomDickJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fea44505e2fab2c47a43e93ce4e89f60
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldMushroomJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f5a63cce695dc04caa750fc118f201f
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldPineappleReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45f12c5bae96c714880637a19d8dc853
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldPineappleReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 744e14532421bd24d9015f75ed8c5f48
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Gold/GoldYogurtReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6f666ab9d3a23346a7357d713c92ef9
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/Burger+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94f1fde1ae4777d43a48efd5428df838
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/EggplantJuice+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b48a0a95559cc545a9c494f6b01d613
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/EggplantJuice^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73d5928499a29044ea1238bc04f4f0d8
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/GroundBeef+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7b4089319bc71a47a20486132024c31
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/GrowthSerum+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 701afb9e395cb6e458e660d61e9ed75a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/Love+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff3d0540d2d3b6e4ab2b3e5641bb074f
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/MelonJuice+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e07b496c1851284c8e94a2f6f373471
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/MelonJuice^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a07dd475fd5996a4db488ae2b603a565
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/MushroomBallJuice+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89bca7692a6cf1f41b319e60d45d9f43
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/MushroomBoobJuice+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b94ab40fa8ec08d48a98705eebdcf78a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/MushroomDickJuice+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9aa366e796f612046a0e1f32a3f476f3
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/MushroomJuice+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb2706a4bbe0940418ba2768bd4fb6fd
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/PineappleJuice+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb7b7fb0123593946910ca4987085a86
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/PineappleJuice^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a42d0bfdc8760a4449ded576a49c84f2
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/GoldJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dfb99f5410b89c47949388fb6643e22
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/SuperGoldJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ab68e0db1954c84dbd0f1c00b868ae0
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Gold Drinks/Yogurt+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d5c96eb6a6c73543b90ee12345bcde2
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/GoldMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99e1a5b266a9aad42bf41e54adb9d0ec
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/GoldPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 260aac6f4057f63488019bb52920d7ba
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/GoldSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d5ccdf7a4b410f4e8239c0d30e8518d
+    m_Address: Assets/Gold Assets/Fish+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c3d4481ba708834bb694d09f50bb833
+    m_Address: Assets/Gold Assets/Egg+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbf02ed4c98382f4f82430d6e793cb80
+    m_Address: Assets/Gold Assets/Bucket+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 748f33af66fe5a1489a1787d935efd7b
+    m_Address: Assets/Gold Assets/Heart+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c53cb177f2cac514f9863723fd057cf7
+    m_Address: Assets/Gold Assets/Kobold+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e062a03d95ac0864eaa2930450b51152
+    m_Address: Assets/Gold Assets/ShiningGoldFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a682f86bee912c24da64b474019821b5
+    m_Address: Assets/Gold Assets/GoldFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbfc196646f91c94ea57ca998880c669
+    m_Address: Assets/Gold Assets/GoldSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Seed
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c4fdbcf03eb5ad489d196c8cd8514cb
+    m_Address: Assets/Gold Assets/Steak+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 745dc7b1f2a21274c8ff06c90348e82f
+    m_Address: Assets/Gold Assets/Trough+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e56c58231cca2384f9c7b614ed877f8a
+    m_Address: Assets/Gold Assets/WateringCan+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 698054be305055541ba5932cb8460341, type: 2}
+    - {fileID: 11400000, guid: 7932167c601eee44f941e4a10fbd3409, type: 2}

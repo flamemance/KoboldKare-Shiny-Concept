@@ -16,7 +16,11 @@ MonoBehaviour:
   reactants:
   - reactant: {fileID: 11400000, guid: e2bd3b59fd1177f40a386d8d093a503e, type: 2}
     coefficient: 1
+<<<<<<< Updated upstream
   - reactant: {fileID: 11400000, guid: d4b28d61c1070df46be7cd01b0d489d9, type: 2}
+=======
+  - reactant: {fileID: 11400000, guid: 0df9b29ce4962d140b59d12b5c018a67, type: 2}
+>>>>>>> Stashed changes
     coefficient: 1
   products:
   - reactant: {fileID: 11400000, guid: fd8bb17e605e5ca42b633135277e95f5, type: 2}

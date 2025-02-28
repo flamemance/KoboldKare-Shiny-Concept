@@ -14,12 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   reactions: []
   reactants:
+<<<<<<< Updated upstream
   - reactant: {fileID: 11400000, guid: 0b4b31a7790a7e14a9089576ebd7d702, type: 2}
+=======
+  - reactant: {fileID: 11400000, guid: ed022bc263304334b8f3107b78461ffc, type: 2}
+>>>>>>> Stashed changes
     coefficient: 1
   - reactant: {fileID: 11400000, guid: 0df9b29ce4962d140b59d12b5c018a67, type: 2}
     coefficient: 1
   products:
+<<<<<<< Updated upstream
   - reactant: {fileID: 11400000, guid: dc4e779cb9b4fb14c8028b7ac45095df, type: 2}
+=======
+  - reactant: {fileID: 11400000, guid: d3d63047a5fb50d48a7eefef3bed90e5, type: 2}
+>>>>>>> Stashed changes
     coefficient: 1
   references:
     version: 2

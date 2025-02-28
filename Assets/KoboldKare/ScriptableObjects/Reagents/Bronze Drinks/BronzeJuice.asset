@@ -16,17 +16,29 @@ MonoBehaviour:
     m_TableReference:
       m_TableCollectionName: GUID:7b0547fe1d039e3448e29797d2fc4463
     m_TableEntryReference:
+<<<<<<< Updated upstream
       m_KeyId: 516099198980
+=======
+      m_KeyId: 536239118896852992
+>>>>>>> Stashed changes
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
   color: {r: 0.42, g: 0.26313, b: 0.0714, a: 1}
+<<<<<<< Updated upstream
   emission: {r: 0.42, g: 0.26313, b: 0.0714, a: 1}
   value: 0.5
   metabolizationHalfLife: 30
   cleaningAgent: 0
   calories: 0.002
+=======
+  emission: {r: 0, g: 0, b: 0, a: 1}
+  value: 0.5
+  metabolizationHalfLife: 30
+  cleaningAgent: 0
+  calories: 0
+>>>>>>> Stashed changes
   display: {fileID: 0}
   consumptionEvent:
     rid: 3073363012921065473

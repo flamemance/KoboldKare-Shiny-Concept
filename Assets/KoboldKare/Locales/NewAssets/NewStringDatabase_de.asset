@@ -209,10 +209,10 @@ MonoBehaviour:
     m_Localized: 'DIESES SPIEL ZEIGT FIKTIONALE CHARAKTERE IN <#FF0000>SEXUELL EXPLIZITEN
       HANDLUNGEN.<#FFFFFF>
 
-      
 
-      Wenn du auf <#008CFF>SPIELEN<#FFFFFF>
-      klickst, gibst du Folgendes an:'
+
+      Wenn du auf <#008CFF>SPIELEN<#FFFFFF> klickst,
+      gibst du Folgendes an:'
     m_Metadata:
       m_Items: []
   - m_Id: 516095004692
@@ -1429,6 +1429,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 524703093826330624
     m_Localized: Heads-up-Display ausblenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240545056681984
+    m_Localized: Melonen-Bronze-Saft
     m_Metadata:
       m_Items: []
   references:

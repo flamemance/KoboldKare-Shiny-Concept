@@ -1339,6 +1339,70 @@ MonoBehaviour:
     m_Key: CONTROLS_HIDE_HUD
     m_Metadata:
       m_Items: []
+  - m_Id: 536080597186244608
+    m_Key: PLANT_KOBOLDBRONZE_OBJECTIVE_DESCRIPTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536080652605583360
+    m_Key: PLANT_KOBOLDBRONZE_OBJECTIVE_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536239118896852992
+    m_Key: REAGENT_BRONZE_JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536239737812545536
+    m_Key: REAGENT_BURGER_BRONZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240041794727936
+    m_Key: REAGENT_EGGPLANT_BRONZE_JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240221403213824
+    m_Key: REAGENT_GROUND_BEEF_BRONZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240326260813824
+    m_Key: REAGENT_GROWTH_SERUM_BRONZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240443407724544
+    m_Key: REAGENT_LOVE_BRONZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240545056681984
+    m_Key: REAGENT_MELON_BRONZE_JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240706013097984
+    m_Key: REAGENT_BALL_SHRINK_BRONZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240829627625472
+    m_Key: REAGENT_BOOB_SHRINK_BRONZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240911429136384
+    m_Key: REAGENT_MUSHROOM_BRONZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240998561607680
+    m_Key: REAGENT_DICK_SHRINK_BRONZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536241099363315712
+    m_Key: REAGENT_PINEAPPLE_BRONZE_JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536241236693217280
+    m_Key: YOGURT_BRONZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 537318267090628608
+    m_Key: OBJECTIVE_MAKE_BRONZE_BASED_FOODS_TITLE
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

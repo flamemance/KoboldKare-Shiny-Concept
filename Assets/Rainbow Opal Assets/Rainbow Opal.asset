@@ -1,0 +1,355 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Rainbow Opal
+  m_EditorClassIdentifier: 
+  m_GroupName: Rainbow Opal
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2ee06aa8b66541848bc7dc6a4953d0e3
+  m_SerializeEntries:
+  - m_GUID: 661de9c1b2b4f4d4eb771ed9ecda2bf9
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/OpalSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2df5fef9a157a404bbb77498c303d48d
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/OpalPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0c7357575d0688438f3526ee08ee52e
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/OpalMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8987110e6bfb5fb4a95df5543d6f6b6c
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/KoboldSpawnPlantOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 794fdebba4054c041bbf3e71f9621c0e
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/KoboldBuriedOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cdc98a1d13676b40a51bf5b6d0d8ec5
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/EggOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23b30e9155bd2ad4cb3a7762ff877d56
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/Burger+++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a8ab16d6d87ac34a9b4bad3b3b9ad38
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/EggplantJuice^^^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aeb045556f58f1840b5f555f9a2eb67d
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/EggplantJuice+++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecd7f267dad5e9f4e9240d8aa13ec622
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/GroundBeef+++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6e758c3b68f4bd4fa8ba2e4aaf85d2e
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/GrowthSerum+++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90a25559f86778a4c9b43d4de10e540c
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/Love+++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f9878921fb72664eac0ea8916b9818a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/MelonJuice^^^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea936351094036342a39b1e6b3ac606e
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/MelonJuice+++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3713fa511084ff40a8013ee75f16eed
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/MushroomBallJuice+++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51fc4c1e9057f45469c58eef34af2140
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/MushroomBoobJuice+++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59dd85ad139a64b4481807b65aee7308
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/MushroomDickJuice++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3d63047a5fb50d48a7eefef3bed90e5
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/MushroomJuice+++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed022bc263304334b8f3107b78461ffc
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/OpalJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 154c121a98a802c4fa5015b4c0f70f5e
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/PineappleJuice^^^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92e43bc0c2426c64aa401694dc3643c3
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/PineappleJuice+++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f410732f56166214b8e48230650a9e9c
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/SuperOpalJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27fa82d31de9b304cb9eeb047885b076
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Opal Drinks/Yogurt+++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17c439ea803d3af4a8e39fb822891c61
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/DoughBeef+++++Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c4757dee92a55e4aa4f007a2a90cba6
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalEggplantReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6383b1c30be63f44a536050f3fc6524
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalEggplantReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51db89cc8245059478250fb587d3c8d1
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalGrowthSerumReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2da9e637d568d7b4382cd3fa5bc31958
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalGrowthSerumReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d6fae5fb4b541d4e93446fc20843ce3
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalMelonRaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76d75c980a9896c4fa25008bffe25d6e
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalMelonReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94c152a9cc16bda47ae60ad566d400d2
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalMushroomBallJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2db4bed1a4a2f84b8cbbd35d28de65c
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalMushroomBoobJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e18adf537b0c10047aef51ec243d5f41
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalMushroomDickJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca90e27cde7d7b74c8d24ca519f33e03
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalMushroomJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4709ee9a001efe842bdae9c3d1620bd9
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalPineappleReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3473db0102d2ac34a9661129e42b17df
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalPineappleReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6bcad1aac19ccc4fa7c287a5eb59ff2
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Opal/OpalYogurtReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 979e449b6b52d3e41ae66fd8d059edc0
+    m_Address: Assets/Rainbow Opal Assets/WateringCan+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efe7cd56963a0c244ba42f68cb59be32
+    m_Address: Assets/Rainbow Opal Assets/Trough+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 222eefbdb33578343b8284c2d8920673
+    m_Address: Assets/Rainbow Opal Assets/Steak+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c875e9ebc455f0498159db140fb3ba7
+    m_Address: Assets/Rainbow Opal Assets/SpaceBeamOpal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: babd9df2e6acc0e479b120a1fa490140
+    m_Address: Assets/Rainbow Opal Assets/ShiningOpalFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c7e7b0fa7dadf74b86ec8aa7895cd93
+    m_Address: Assets/Rainbow Opal Assets/OpalSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Seed
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69e82c926a8f83542bdac7ed1bfd6717
+    m_Address: Assets/Rainbow Opal Assets/OpalFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d283d3c214133fd41b29a46d5af17e8e
+    m_Address: Assets/Rainbow Opal Assets/Kobold+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 221793ffad5967a41b2191179c01ae4b
+    m_Address: Assets/Rainbow Opal Assets/Heart+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f69ad09bc3709845b9335d96607103f
+    m_Address: Assets/Rainbow Opal Assets/Fish+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3425d5aaef673b44bbbf8feb3887dcb9
+    m_Address: Assets/Rainbow Opal Assets/Egg+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 751bb347bb65fe04fa69188f524219e6
+    m_Address: Assets/Rainbow Opal Assets/Bucket+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 96f968ccb33e42b49921be8e1567aa8b, type: 2}
+    - {fileID: 11400000, guid: 5cc79153063eb47438a0a7feebe51979, type: 2}

@@ -1,0 +1,354 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Obsidian
+  m_EditorClassIdentifier: 
+  m_GroupName: Obsidian
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6a6ae370c111cd74ba05968d3a5fd209
+  m_SerializeEntries:
+  - m_GUID: 25ff2539083aa9d489945e34afb06e19
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/Burger++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7824c121821bdb4f90b01f06365f521
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/EggplantJuice^^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df7356d14fe52a44ca1a9b3cbeabcd7b
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/EggplantJuice++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9267672000002b45873c69cbd2fa897
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/GroundBeef++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f85bdceb616a6e4eb86da09a5d8919c
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/GrowthSerum++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a3df418d63bc1a42a7f8fd8cb6cc4e6
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/Love++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fb15980100051841b8ab4ad6b1a56ea
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/MelonJuice^^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47902c4bb058f9a4581f437662a56b4e
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/MelonJuice++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 753e0486970854f4a914321d4c62dab4
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/MushroomBallJuice++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81df84b4b846d5c4190a2295101bc454
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/MushroomBoobJuice++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b35a1d23ce79cd4fa4935681479503d
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/MushroomDickJuice++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2d1acb01e1db144fb27334c19f4a456
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/MushroomJuice++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 365224605187008468bd589ccfdec863
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/ObsJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42d44cac024fed5438dd0c5adb953626
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/PineappleJuice^^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2afe44d8295f3ee4098a1105a2262f4f
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/PineappleJuice++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86b39a0b4373c6142a0c8d96d9b7221f
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/SuperGoldJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f235f23df4a7da48b7b1463bf0d6593
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Obsidian Drinks/Yogurt++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f79ce9e78a59dd44b755c8c78e9d904
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/DoughBeef++++Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58e8c36b34d605443973a483d322df76
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsEggplantReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0da0b9a527c33af40a0a0a363b7f1f3b
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsEggplantReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1ca55e428ad406429c25f0bc19ff231
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsGrowthSerumReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bb95607dd9f6984c8ea4bb310f65e0d
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsGrowthSerumReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88e4414b88a677b43a0b4c7d18183e8f
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsMelonRaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c07a77f21d7271e42a077aa761d475e5
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsMelonReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f800d7fb52b9822459c1768d8b4db89a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsMushroomBallJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bb4062903092dc4bb331caba022cf4b
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsMushroomBoobJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88b5608bbf6f58b40ab8b38e4e8438ce
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsMushroomDickJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bda9254fe3a2c1a4bbc384967be4cb13
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsMushroomJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a442421174238c4382b0a00fedfc9f5
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsPineappleReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebedf5e5a4825cb4ba40ea59d25d6126
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsPineappleReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd29f8614c52f564ba6aa53307cebdc6
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Obsidian/ObsYogurtReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fcc53032ec37b442a33ec1c42ec4a0a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/ObsSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c12873886e70ea64aadaa7c5ba17a6ac
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/ObsPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 569cbf0cd4ee3e54a9d2c25116d0ddc2
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/ObsMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daa143b5a262aea40b26dfe724782ea4
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/KoboldSpawnPlantObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1616164a050e2fe4f956f344afd5e2d6
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/KoboldBuriedObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9ee51e546a1a7d4faba9ec9729a4054
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/EggObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbf022c9f3c22fa43967952781d0a25f
+    m_Address: Assets/Obsidian Assets/WateringCan++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d98793abb786d54c91b20aa35a7123f
+    m_Address: Assets/Obsidian Assets/Trough++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99ea64777d17ba242a782c4cd9738042
+    m_Address: Assets/Obsidian Assets/Steak++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af0b5296ae2bba744bb6f8e3be771464
+    m_Address: Assets/Obsidian Assets/SpaceBeamObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4a8c28112d42764492fca1b8f7a9a5d
+    m_Address: Assets/Obsidian Assets/ShiningObsFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66c36d2a35f249843a05b93cffe73aeb
+    m_Address: Assets/Obsidian Assets/ObsSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5e02e0bee816224fb6c8e8dd7afed8d
+    m_Address: Assets/Obsidian Assets/ObsFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 646a1c06b02bfb84781ece755d0e4c0c
+    m_Address: Assets/Obsidian Assets/Kobold++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3eee27594a2056438747c2a4507c750
+    m_Address: Assets/Obsidian Assets/Heart++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86705140c71585445b727f833a40f5ea
+    m_Address: Assets/Obsidian Assets/Fish++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3920f8bcea8c244b922c223d87496af
+    m_Address: Assets/Obsidian Assets/Egg++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a207315c02f25e47957ba35c0c3c015
+    m_Address: Assets/Obsidian Assets/Bucket++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 788cf4244401e09419fd2cfbc8c6db26, type: 2}
+    - {fileID: 11400000, guid: 7c2f5b4ced5569945bfc7e03b2d9980d, type: 2}

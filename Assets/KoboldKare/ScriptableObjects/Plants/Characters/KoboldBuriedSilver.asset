@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b49cb41b826404fbc3be501ccb1196, type: 3}
+  m_Name: KoboldBuriedSilver
+  m_EditorClassIdentifier: 
+  fluidNeeded: 40
+  display: {fileID: 2702601464773309442, guid: cf687b5426e472c459dc5c728ca36730, type: 3}
+  possibleNextGenerations:
+  - {fileID: 11400000, guid: a0463a3fa10ef7d439e39055bf58ea93, type: 2}
+  produces: []

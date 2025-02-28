@@ -1438,6 +1438,10 @@ MonoBehaviour:
     m_Localized: "Ukryj wy\u015Bwietlacz przezierny"
     m_Metadata:
       m_Items: []
+  - m_Id: 536240545056681984
+    m_Localized: "\r\nSok z melona br\u0105zowego"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

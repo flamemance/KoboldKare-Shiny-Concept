@@ -724,7 +724,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 197833684470169603
-    m_Localized: An egg from the Dragon Lord!
+    m_Localized: Plant an Egg!
     m_Metadata:
       m_Items: []
   - m_Id: 197833684470169604
@@ -1429,10 +1429,72 @@ MonoBehaviour:
     m_Localized: Hide heads up display
     m_Metadata:
       m_Items: []
+  - m_Id: 536080652605583360
+    m_Localized: What's this? A Bronze Egg?
+    m_Metadata:
+      m_Items:
+      - rid: 1602997996487704582
+  - m_Id: 536080597186244608
+    m_Localized: I wonder if it'll hatch like the others...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536239118896852992
+    m_Localized: Bronze Juice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536239737812545536
+    m_Localized: Burger Bronze
+    m_Metadata:
+      m_Items:
+      - rid: 1602997996487704582
+  - m_Id: 536240041794727936
+    m_Localized: Eggplant Bronze Juice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240221403213824
+    m_Localized: Ground Beef Bronze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240326260813824
+    m_Localized: Growth Serum Bronze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240443407724544
+    m_Localized: Love Bronze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240545056681984
+    m_Localized: Melon Bronze Juice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240706013097984
+    m_Localized: Balls Shrink Bronze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240829627625472
+    m_Localized: Boob Shrink Bronze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240911429136384
+    m_Localized: Mushroom Bronze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536240998561607680
+    m_Localized: Dick Shrink Bronze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536241099363315712
+    m_Localized: Pineapple Bronze Juice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536241236693217280
+    m_Localized: Yogurt Bronze
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
     - rid: 1602997996487704582
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
-        m_Entries: 0020279f8e71db030020e7a08e71db03012067def6b6db03002067def6b6db03002067dcf6b6db03002027def6b6db03012027def6b6db030220a7e9e02de203
+        m_Entries: 0020279f8e71db030020e7a08e71db03012067def6b6db03002067def6b6db03002067dcf6b6db03002027def6b6db03012027def6b6db030220a7e9e02de20300f08365838a700700f0c34e331b7107
