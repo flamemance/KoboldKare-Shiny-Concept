@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32869a6bcc471024096a008764badf8f, type: 3}
+  m_Name: BronzeMushroomDickJuiceReaction
+  m_EditorClassIdentifier: 
+  reactions: []
+  reactants:
+  - reactant: {fileID: 11400000, guid: 6e43fd0e50c15444681cb9749ddffda0, type: 2}
+    coefficient: 1
+  - reactant: {fileID: 11400000, guid: 141380da6f0bc8649af1917eaff8b3db, type: 2}
+    coefficient: 1
+  products:
+  - reactant: {fileID: 11400000, guid: b26965de4e06a8a4cab6dccb7717f080, type: 2}
+    coefficient: 1
+  references:
+    version: 2
+    RefIds: []

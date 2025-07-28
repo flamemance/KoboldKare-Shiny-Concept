@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 1824831254}
-  m_IndirectSpecularColor: {r: 0.10373664, g: 0.45712912, b: 0.5369914, a: 1}
+  m_IndirectSpecularColor: {r: 0.089981854, g: 0.39642024, b: 0.57249933, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -680,7 +680,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentConfiguration:
     rid: 1602997862133923852
-  mouseSensitivity: {fileID: 11400000, guid: be95cd2d702feee418f854733f0d5cd9, type: 2}
   references:
     version: 2
     RefIds:
@@ -1750,7 +1749,7 @@ PrefabInstance:
     - target: {fileID: 1265477231297206195, guid: 364d21a5e4c0c464784d42f01767a083,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 24.003357
+      value: 24.003387
       objectReference: {fileID: 0}
     - target: {fileID: 1515110291193307783, guid: 364d21a5e4c0c464784d42f01767a083,
         type: 3}
@@ -3378,6 +3377,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   screenOffset: {x: 0.66, y: 0.5}
   desiredDistanceFromPivot: 1.5
+  baseFOV: 65
   angleFreedom: 0
 --- !u!1 &1496673832
 GameObject:

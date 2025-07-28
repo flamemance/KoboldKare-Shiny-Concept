@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b49cb41b826404fbc3be501ccb1196, type: 3}
+  m_Name: KoboldBuriedBronze
+  m_EditorClassIdentifier: 
+  fluidNeeded: 40
+  display: {fileID: 2702601464773309442, guid: 5aa26e5f985b2f247b32069331299237, type: 3}
+  possibleNextGenerations:
+  - {fileID: 11400000, guid: 93a4404abaef06b4db393f7e2ab8ca25, type: 2}
+  produces: []

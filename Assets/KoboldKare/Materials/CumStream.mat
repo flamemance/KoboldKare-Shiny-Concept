@@ -46,6 +46,6 @@ Material:
     - _SpecularHighlights: 1
     - _metallic: 0.3
     m_Colors:
-    - _Color: {r: 0.9245283, g: 0.9245283, b: 0.9245283, a: 2}
+    - _Color: {r: 0.6462264, g: 0.8806881, b: 1, a: 1.0784314}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
