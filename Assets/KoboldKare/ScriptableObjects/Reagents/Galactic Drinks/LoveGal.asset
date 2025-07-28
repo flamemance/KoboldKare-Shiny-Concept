@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 757ca47f379963246843acce6f01e18f, type: 3}
+  m_Name: LoveGal
+  m_EditorClassIdentifier: 
+  localizedName:
+    m_TableReference:
+<<<<<<< Updated upstream
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+=======
+      m_TableCollectionName: GUID:7b0547fe1d039e3448e29797d2fc4463
+    m_TableEntryReference:
+      m_KeyId: 536240443407724544
+>>>>>>> Stashed changes
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  color: {r: 1, g: 0.31, b: 0.37899995, a: 1}
+<<<<<<< Updated upstream
+  emission: {r: 0.14126332, g: 0.019382361, b: 0.057805434, a: 0}
+  value: 0.5
+  metabolizationHalfLife: 30
+=======
+  emission: {r: 0.7009766, g: 0.5058824, b: 1, a: 1}
+  value: 0.5
+  metabolizationHalfLife: 5
+>>>>>>> Stashed changes
+  cleaningAgent: 0
+  calories: 0
+  display: {fileID: 0}
+  consumptionEvent:
+    rid: 8146302006955343874
+  references:
+    version: 2
+    RefIds:
+<<<<<<< Updated upstream
+=======
+    - rid: 4240487684347002880
+      type: {class: ConversionReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 20
+        ConvertToReagent: {fileID: 11400000, guid: cf45304516a585b41b686355a8ecd9b0,
+          type: 2}
+>>>>>>> Stashed changes
+    - rid: 8146302006955343874
+      type: {class: CustomReagentConsumptionEvent, ns: , asm: Assembly-CSharp}
+      data:
+        Effects:
+<<<<<<< Updated upstream
+        - rid: 8146302006955343875
+        - rid: 8146302031642230784
+    - rid: 8146302006955343875
+      type: {class: ConversionReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 10
+        ConvertToReagent: {fileID: 11400000, guid: 6a3ddb5dbc12f7e4b9c3e396cd58f3e9,
+          type: 2}
+    - rid: 8146302031642230784
+      type: {class: BellySizeReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 10
+=======
+        - rid: 4240487684347002880
+>>>>>>> Stashed changes

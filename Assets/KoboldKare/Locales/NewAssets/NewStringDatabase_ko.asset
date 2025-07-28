@@ -1515,6 +1515,10 @@ MonoBehaviour:
     m_Localized: "\uD5E4\uB4DC\uC5C5 \uB514\uC2A4\uD50C\uB808\uC774 \uC228\uAE30\uAE30"
     m_Metadata:
       m_Items: []
+  - m_Id: 536240545056681984
+    m_Localized: "\uBA5C\uB860 \uBE0C\uB860\uC988 \uC8FC\uC2A4"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

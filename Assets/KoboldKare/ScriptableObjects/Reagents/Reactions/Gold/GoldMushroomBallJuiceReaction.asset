@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32869a6bcc471024096a008764badf8f, type: 3}
+  m_Name: GoldMushroomBallJuiceReaction
+  m_EditorClassIdentifier: 
+  reactions: []
+  reactants:
+<<<<<<< Updated upstream
+  - reactant: {fileID: 11400000, guid: bcf75c640216a4c41b74b1874ae26673, type: 2}
+=======
+  - reactant: {fileID: 11400000, guid: a42d0bfdc8760a4449ded576a49c84f2, type: 2}
+>>>>>>> Stashed changes
+    coefficient: 1
+  - reactant: {fileID: 11400000, guid: 64a37d7d0b348ab4bbbd80288dc330d6, type: 2}
+    coefficient: 1
+  products:
+<<<<<<< Updated upstream
+  - reactant: {fileID: 11400000, guid: 223b93918c71842448a048877dbe28a7, type: 2}
+=======
+  - reactant: {fileID: 11400000, guid: a07dd475fd5996a4db488ae2b603a565, type: 2}
+>>>>>>> Stashed changes
+    coefficient: 1
+  references:
+    version: 2
+    RefIds: []

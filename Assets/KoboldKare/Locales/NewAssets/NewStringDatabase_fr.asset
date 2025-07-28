@@ -1423,6 +1423,10 @@ MonoBehaviour:
     m_Localized: "Masquer l'affichage t\xEAte haute"
     m_Metadata:
       m_Items: []
+  - m_Id: 536240545056681984
+    m_Localized: Jus de Melon Bronze
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

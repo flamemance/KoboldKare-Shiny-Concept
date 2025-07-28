@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 757ca47f379963246843acce6f01e18f, type: 3}
+  m_Name: BananaYogurt
+  m_EditorClassIdentifier: 
+  localizedName:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  color: {r: 0.8784314, g: 0.8274561, b: 0.65882355, a: 1}
+  emission: {r: 0, g: 0, b: 0, a: 0}
+  value: 3
+  metabolizationHalfLife: 60
+  cleaningAgent: 0
+  calories: 0.025
+  display: {fileID: 5959614492232341571, guid: c6625da89155e7d4e97f68130397c0ce, type: 3}
+  consumptionEvent:
+    rid: 8146301976570757135
+  references:
+    version: 2
+    RefIds:
+    - rid: 8146301976570757135
+      type: {class: CustomConsumptionDiscreteTrigger, ns: , asm: Assembly-CSharp}
+      data:
+        requiredCumulativeReagent: 60
+        maximumTriggerCount: -1
+        Effects:
+        - rid: 8146301976570757136
+        - rid: 8146301976570757142
+    - rid: 8146301976570757136
+      type: {class: MaxEnergyReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        Multiplier: 0.016666668
+    - rid: 8146301976570757142
+      type: {class: FloaterReagentEffect, ns: , asm: Assembly-CSharp}
+      data:
+        floaterInfoPrefab:
+          gameObject: {fileID: 2105268475169688605, guid: 7e38c0db2be3dfe4d8f30c1483108852,
+            type: 3}
+          optionalDatabase: {fileID: 0}
+        Duration: 5

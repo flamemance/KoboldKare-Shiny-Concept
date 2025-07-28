@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32869a6bcc471024096a008764badf8f, type: 3}
+  m_Name: FertileReaction
+  m_EditorClassIdentifier: 
+  reactions: []
+  reactants:
+  - reactant: {fileID: 11400000, guid: e99287de346363b4a9aae24aa3e04176, type: 2}
+    coefficient: 10
+  - reactant: {fileID: 11400000, guid: c3f182fecab2290449380bd945e4703c, type: 2}
+    coefficient: 10
+  - reactant: {fileID: 11400000, guid: 9090cdb3d089e19489249f940ce8aa0a, type: 2}
+    coefficient: 10
+  - reactant: {fileID: 11400000, guid: 8e0adecf61df1d449b1caaa5cf2180c9, type: 2}
+    coefficient: 10
+  - reactant: {fileID: 11400000, guid: 701d796177f8db147891ec9ea3aacc84, type: 2}
+    coefficient: 10
+  products:
+  - reactant: {fileID: 11400000, guid: cff61cd9a5f7be24d9ca6c562c3c2720, type: 2}
+    coefficient: 1
+  references:
+    version: 2
+    RefIds: []

@@ -49,6 +49,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
       - rid: 1602997996487704595
+  - m_Id: 536240545056681984
+    m_Localized: Melon Bronze Juice
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

@@ -183,7 +183,7 @@ MonoBehaviour:
   worth: 0
   displaySprite: {fileID: 21300000, guid: c4d52768fead19a4ab13f15b42b9d589, type: 3}
   _spacing: 2.5
-  plant: {fileID: 11400000, guid: 1958c0f3c6471a74990dca2f37113bfa, type: 2}
+  plant: {fileID: 11400000, guid: 3a9dd68c26e1103458ecf7b747a4c7df, type: 2}
 --- !u!114 &5403549583481808274
 MonoBehaviour:
   m_ObjectHideFlags: 0

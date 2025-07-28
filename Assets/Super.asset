@@ -1,0 +1,309 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Super
+  m_EditorClassIdentifier: 
+  m_GroupName: Super
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5ca2ae72d53f2ce4d8f9f94eb1614e7d
+  m_SerializeEntries:
+  - m_GUID: 9d66323ace09cb845994e51843961a4c
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/Gge.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 834824f7151dbb849b902bc98f05c720
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/DlobokSpawnPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 579a35b646be12a47a62e869bba647a5
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/DlobokBuried.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3ed604f1151f4347a3c6b5969055b8f
+    m_Address: Assets/Fertile Assets/Tnalpgge.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4f8da522d892164a87677496f55558a
+    m_Address: Assets/Fertile Assets/Nolem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc8d8514f8d372f4f91774e9e60d97a1
+    m_Address: Assets/Fertile Assets/Elppaenip.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3086775f63367b3408da84a2de92bfa7
+    m_Address: Assets/Fertile Assets/Ananab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fcb26adb5a00ac47a7da0e57f24575c
+    m_Address: Assets/Fertile Assets/Gge.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ce93558793596647ad7c547514f0aa1
+    m_Address: Assets/Fertile Assets/Hsif.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ad8601ecba7fc040b6a89254b12cf97
+    m_Address: Assets/Fertile Assets/Kaets.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f7bf077ab82d6247a62a6f955d4970b
+    m_Address: Assets/Fertile Assets/Treah.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15a08acf01ebd374786bb9ac5cb865ac
+    m_Address: Assets/Fertile Assets/Dlobok.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af74dfb24f36f5640be8f7cf5b90c569
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Fertile Drinks/DelbmarcsGge.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e99287de346363b4a9aae24aa3e04176
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Fertile Drinks/ElppaenipJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 701d796177f8db147891ec9ea3aacc84
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Fertile Drinks/Evol.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09e07b14d51e6c1479ff762d19a4549a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Fertile Drinks/Feeb.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3f182fecab2290449380bd945e4703c
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Fertile Drinks/Muissatop.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9090cdb3d089e19489249f940ce8aa0a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Fertile Drinks/NolemJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e0adecf61df1d449b1caaa5cf2180c9
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Fertile Drinks/TnalpggeJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee6d62f5e71de6746bb6d357f0566957
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Galactic Drinks/GalJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f13c8f514b9650f4a91caabfcf8efa84
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Galactic Drinks/GrowthSerum^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0e1186c0d32b3e499b07faa1c92c551
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Galactic Drinks/LoveGal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c735326081e665438934019f67f0453
+    m_Address: Assets/Galactic Assets/Bucket^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abaf8d1ba62f27e4f9ed17307fe52eea
+    m_Address: Assets/Galactic Assets/EggGal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df8cbb9eb500e0d49ba0a94022daffaa
+    m_Address: Assets/Galactic Assets/HeartGal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 430406134fcdd0a40afbd1e7e7df8e7d
+    m_Address: Assets/Galactic Assets/Trough^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec05af547202bc844887bc1968113274
+    m_Address: Assets/Galactic Assets/WateringCan^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f54d07c30a0edc44b6b6d1f7a42b32f
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Fertile/AntiEggplantReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efc889a308072244faf4226367ce53d0
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Fertile/AntiEggReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b2e1d2f6c1ee7842a9824e376ab16cd
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Fertile/AntiLoveReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4809e92375d3f846b7640574ec15d52
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Fertile/AntiMelonReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8783f433431088447804316d781aaed0
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Fertile/AntiPineappleReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b826e83af3c8ecc499855675089ccd20
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Galactic/GoldGrowthSerumReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbcf26092da9a9842af17ccccfbcaaf1
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Galactic/GoldGrowthSerumReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cff61cd9a5f7be24d9ca6c562c3c2720
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Fertile Drinks/Ichor.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39d051874c51b6d4db712b5b660f62a9
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Tuorps.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8e2b20fed9713643bc8a922de5ae7b4
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Tnalp.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afd72bb658a238d48a89b535ed43deed
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Dnuom.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10c67f30a1a956d4aa03c389c8e51a36
+    m_Address: Assets/KoboldKare/ScriptableObjects/Reagents/Reactions/Fertile/FertileReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a989c6a1fa2f1c4b859deab480b8e8e
+    m_Address: Assets/Galactic Assets/KoboldGal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f9b8965adba71a4aba67f432ef7508a
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/KoboldSpawnPlantGal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a5c8d2b3e265e34895c4a73fbd42d82
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/KoboldBuriedGal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a43323046b96ba5459b2671c94709d9b
+    m_Address: Assets/KoboldKare/ScriptableObjects/Plants/Characters/EggGal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44bcd85594829ef4399d38e4c51d8c96
+    m_Address: Assets/Galactic Assets/GalFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f432ba41ca616414cae13c6bae1d5c86, type: 2}
+    - {fileID: 11400000, guid: 758747407434bc54ebfba14d9efafb00, type: 2}

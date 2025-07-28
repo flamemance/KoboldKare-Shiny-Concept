@@ -29,9 +29,9 @@ MonoBehaviour:
   calories: 0
   display: {fileID: 0}
   consumptionEvent:
-    rid: 8920608498324865054
+    rid: 350137823444074513
   references:
     version: 2
     RefIds:
-    - rid: 8920608498324865054
+    - rid: 350137823444074513
       type: {class: DefaultConsumption, ns: , asm: Assembly-CSharp}

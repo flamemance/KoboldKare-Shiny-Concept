@@ -1440,6 +1440,10 @@ MonoBehaviour:
     m_Localized: "Ascunde afi\u0219ajul heads-up"
     m_Metadata:
       m_Items: []
+  - m_Id: 536240545056681984
+    m_Localized: Suc de bronz de pepene galben
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

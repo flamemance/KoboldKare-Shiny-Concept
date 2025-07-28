@@ -1418,6 +1418,10 @@ MonoBehaviour:
     m_Localized: Ocultar display de alerta
     m_Metadata:
       m_Items: []
+  - m_Id: 536240545056681984
+    m_Localized: "Suco de Mel\xE3o Bronze"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

@@ -29,9 +29,9 @@ MonoBehaviour:
   calories: 0.05
   display: {fileID: 0}
   consumptionEvent:
-    rid: 8920608498324865036
+    rid: 350137823444074515
   references:
     version: 2
     RefIds:
-    - rid: 8920608498324865036
+    - rid: 350137823444074515
       type: {class: EggplantJuiceConsumption, ns: , asm: Assembly-CSharp}

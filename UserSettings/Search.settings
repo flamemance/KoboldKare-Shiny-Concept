@@ -7,7 +7,11 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
+<<<<<<< Updated upstream
 	"last_search.B655092D" = "st:"
+=======
+	"last_search.B655092D" = "st:yogu"
+>>>>>>> Stashed changes
 	"OpenInspectorPreview.B655092D" = "0"
 	"currentGroup.B655092D" = "all"
 }
@@ -66,6 +70,8 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"st:P"
+	"st:PLANT_KOBOLD_OBJECTIVE_T"
 	"P"
 ]
 searchItemFavorites = [

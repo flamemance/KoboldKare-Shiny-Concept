@@ -1431,6 +1431,10 @@ MonoBehaviour:
     m_Localized: "Figyelemfelkelt\u0151 kijelz\u0151 elrejt\xE9se"
     m_Metadata:
       m_Items: []
+  - m_Id: 536240545056681984
+    m_Localized: "Dinnye bronzl\xE9"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
