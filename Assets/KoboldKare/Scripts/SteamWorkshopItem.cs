@@ -191,8 +191,13 @@ public class SteamWorkshopItem {
 							if (intersect.Length > 0) {
 								shaderVariantCollection.Add( new ShaderVariantCollection.ShaderVariant(mat.shader, PassType.ScriptableRenderPipeline, intersect));
 							}
+						} catch (ArgumentException e) {
+							Debug.LogException(e);
 						}
-						catch (ArgumentException e) {
+
+						try {
+							shaderVariantCollection.Add( new ShaderVariantCollection.ShaderVariant(mat.shader, PassType.ScriptableRenderPipeline, keywordSet.ToArray()));
+						} catch (ArgumentException e) {
 							Debug.LogException(e);
 						}
 					}
