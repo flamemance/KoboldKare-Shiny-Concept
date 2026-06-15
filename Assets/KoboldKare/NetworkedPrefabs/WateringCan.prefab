@@ -215,15 +215,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startingMaxVolume: 30
   type: 0
-  OnChange:
-    m_PersistentCalls:
-      m_Calls: []
-  OnFilled:
-    m_PersistentCalls:
-      m_Calls: []
-  OnEmpty:
-    m_PersistentCalls:
-      m_Calls: []
   startingReagents: []
 --- !u!114 &3407505360677138636
 MonoBehaviour:
@@ -268,6 +259,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &-6171395322069210244
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1,0 +1,339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Bronze
+  m_EditorClassIdentifier: 
+  m_GroupName: Bronze
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f12f6cd6e7dcde64ba01182984ce3c3a
+  m_SerializeEntries:
+  - m_GUID: 3b62cdde2f243f44ead45def4d7812ae
+    m_Address: Assets/Bronze Assets/Bronze Drinks/Burger+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 93ebe99e2a4c5c4449ba0ff548320deb
+    m_Address: Assets/Bronze Assets/Bronze Drinks/EggplantJuice+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: ee2a10cb498b15f40bc9a75fc885dd4e
+    m_Address: Assets/Bronze Assets/Bronze Drinks/EggplantJuice^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 09d3099973a0dcd4dbd5f182ea6ebfdf
+    m_Address: Assets/Bronze Assets/Bronze Drinks/GroundBeef+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 3d4c5d0d5da34a24c82cda590dfad1fe
+    m_Address: Assets/Bronze Assets/Bronze Drinks/GrowthSerum+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 37bb6c64881dd854a8dd0ce18468c6c3
+    m_Address: Assets/Bronze Assets/Bronze Drinks/Love+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: abc3150da7fed53429b5967fae412f72
+    m_Address: Assets/Bronze Assets/Bronze Drinks/Love^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: f04d5ec2bd2408d4d8c09653c65c5137
+    m_Address: Assets/Bronze Assets/Bronze Drinks/MelonJuice+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 30c588ba75a76c049b92bdabdd27b6aa
+    m_Address: Assets/Bronze Assets/Bronze Drinks/MelonJuice^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: a75d9334a89d7344a9c94efd802e1eb7
+    m_Address: Assets/Bronze Assets/Bronze Drinks/MushroomBallJuice+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 161d8753b3f79f0489b0bd5e2f1bb21f
+    m_Address: Assets/Bronze Assets/Bronze Drinks/MushroomBoobJuice+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: e6a924017240d5240a7c2f7159310471
+    m_Address: Assets/Bronze Assets/Bronze Drinks/MushroomDickJuice+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 90d29edae17760644a88baee1f55ee70
+    m_Address: Assets/Bronze Assets/Bronze Drinks/MushroomJuice+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 8f92468b960108c4a9bb53879cb728da
+    m_Address: Assets/Bronze Assets/Bronze Drinks/PineappleJuice+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: f7f919a9b6243a24a81a4853ddbd106c
+    m_Address: Assets/Bronze Assets/Bronze Drinks/PineappleJuice^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: a4288ab79838c71408c718c398d73c1a
+    m_Address: Assets/Bronze Assets/Bronze Drinks/BronzeJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: e53bee6f3605569429dad3991f55a177
+    m_Address: Assets/Bronze Assets/Bronze Drinks/SuperBronzeJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: ced577f20f06d0b4da541ced9d464f11
+    m_Address: Assets/Bronze Assets/Bronze Drinks/Yogurt+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 8367d602bbd5cd745994918dc0da2c42
+    m_Address: Assets/Bronze Assets/Bronze Drinks/Fish+.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 56d0f0d1d528e8242be1c26303d99cd0
+    m_Address: Assets/Bronze Assets/Bronze Drinks/Steak+.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: e272c6594c41d76419e0ce6e23d98d55
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeMelonReaction 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: cdf85e786657d124e9808cf46aa9d0fa
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeMelonReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: c7978a46f4748d0439aeab2662e65200
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeBeefReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 60d79da2dda48c44283386561f5543fc
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeEggplantReaction 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: d1ea3c4d55bf7814d8f308bc10909fa7
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeGrowthSerumReaction 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 43a683db5a7b3b748bd145ce7cbcb62b
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeEggplantReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: f4c40ab0887d8104d8e9477721df61ab
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzePineappleReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: f514b1b88a60b9644b5b11605531dd6d
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeMushroomBoobJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: f751edfa41ee22d45a302663e18ad914
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeMushroomJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: e8bb7950baccdac4fa8f5c66a4461607
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeMushroomDickJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 997c7c3bb4449c048a7fd57b4ced8fe8
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeMushroomBallJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 5bf10981bdd714d4abf61dd3d3bb5385
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeGrowthSerumReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 0de2202fb15690846af6b59d6f21cbb7
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeBurgerReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: dd9b77abbc7f23342af901059b5850de
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzeYogurtReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: bedea135bdeff0340b03b5199a986456
+    m_Address: Assets/Bronze Assets/Bronze Reactions/BronzePineappleReaction 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 38d11785d1fba2946b6245a7668301b1
+    m_Address: Assets/Bronze Assets/Cosmetics/Gloves+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equipment
+  - m_GUID: 45af2177006bbe14e81a81808481d9e4
+    m_Address: Assets/Bronze Assets/Cosmetics/NippleBarbells+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equipment
+  - m_GUID: ecedb96f4d473fe4487b6cbdb223f2e3
+    m_Address: Assets/Bronze Assets/Cosmetics/HardHat+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equipment
+  - m_GUID: c7b04e8749c62bc4d963d9a979ba6ca6
+    m_Address: Assets/Bronze Assets/Cosmetics/TopHat+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equipment
+  - m_GUID: 82023fb02a2857149ab3c8c32ba817a5
+    m_Address: Assets/Bronze Assets/Cosmetics/Heels+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equipment
+  - m_GUID: 075c41a1f61e16c48a659a21561bc679
+    m_Address: Assets/Bronze Assets/Cosmetics/SpikedCollar+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equipment
+  - m_GUID: 1ee5a1930187ae3429c06f649e899087
+    m_Address: Assets/Bronze Assets/Cosmetics/TopHatBronze.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cosmetic
+  - m_GUID: fe13cd21f0c9f26498123269205667cb
+    m_Address: Assets/Bronze Assets/Cosmetics/HeelsBronze.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cosmetic
+  - m_GUID: 326f97fd1ac69e3429e7e279a77ffc7a
+    m_Address: Assets/Bronze Assets/Cosmetics/NippleBarbellPiercingsBronzeEquippable.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cosmetic
+  - m_GUID: c061ea06d3e403d40b708c7961481702
+    m_Address: Assets/Bronze Assets/Cosmetics/HardHatBronze.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cosmetic
+  - m_GUID: b10225e771bcda244a6fc4c6ca7884ef
+    m_Address: Assets/Bronze Assets/Cosmetics/GlovesBronze.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cosmetic
+  - m_GUID: 8ada9392bb2b48842a68eb88b6b6e9ac
+    m_Address: Assets/Bronze Assets/Cosmetics/SpikeCollarBronze.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cosmetic
+  - m_GUID: 92df472b5590d084092c0dcc8e216a1c
+    m_Address: Assets/Bronze Assets/Machines/BronzeSleepyStation.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 0dae7ec96906e20479d3cdba0b6e3a0b
+    m_Address: Assets/Bronze Assets/Machines/Trough++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+  - m_GUID: d06bd9b6a4f172a489a3593595d11d8b
+    m_Address: Assets/Bronze Assets/Machines/WateringCan++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EquipmentStoreItem
+  - m_GUID: dc696fb9fa94e4c4f9a3b9dd0203bdc1
+    m_Address: Assets/Bronze Assets/Plants/BronzeFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+  - m_GUID: 3a68f204a342a8f4888f834507ebcc00
+    m_Address: Assets/Bronze Assets/Plants/ShiningBronzeFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+  - m_GUID: f8d0852b8de19ae4ca4b8f8a65c2d413
+    m_Address: Assets/Bronze Assets/Plants/BronzeSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Seed
+  - m_GUID: 831a2b82152ca0248a865d4bfedbbc3f
+    m_Address: Assets/Bronze Assets/Plants/BronzeMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: e23f46b450329c448abc72abb7f6e205
+    m_Address: Assets/Bronze Assets/Plants/BronzeSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 872fe1d57a69b6b4b9c24e7ede897cd3
+    m_Address: Assets/Bronze Assets/Plants/BronzePlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: df1697eb3d30f564082accf69d304a76, type: 2}
+    - {fileID: 11400000, guid: 87b0dcb9c531791408e2f16ce5464fc0, type: 2}

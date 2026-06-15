@@ -1,0 +1,397 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Digestion Potion
+  m_EditorClassIdentifier: 
+  m_GroupName: Digestion Potion
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 35edd1aef846224459ce251b5f2d22fb
+  m_SerializeEntries:
+  - m_GUID: 420769d3f339b4543a49db5046033923
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/YogurtFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 66a4bf76bac761945a9e6e181dc23d30
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/WoodFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: ebcd2fc0faf28af4c8765db8b65d19e3
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/WaterFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 5f541ba229e9e3d4b9f1a403bc7c357d
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/ScrambledEggFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: d35c4430402ee5f4496774db6d6b7a01
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/PotassiumFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: fcce304c9c8be3242a3765fa180b0100
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/PineapplePopsicleFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: d66059064272f22439a92440eb99471a
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/PineappleJuiceFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 79da4ab25f41f66499d1e454231b73b3
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/PieFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 0341e78662433884fad2d2f0f72c8424
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/MushroomJuiceFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 730d3932d36a94647951567889592d4b
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/MushroomDickJuiceFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: bf7fd01954955a1428fc61d4a7766745
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/MushroomBoobJuiceFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 8195ad9bae7f21640aa33302318b54e5
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/MushroomBallJuiceFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 5c0c175ea252c9143812cb531d77c751
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/MilkShakeFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: ae3ba4dd8206f1748b70d6c38c625a9d
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/MilkFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: a2912f6dd61229c41873af7d626afb82
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/MelonJuiceFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 2fb59bdc6625c96419f61b2927afa2b9
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/LoveFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: aa3b6cf074545594f96447379dcb7cad
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/IncompleteGrowthSerumBFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 3b66704a04226404aa9e0e49a9fca414
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/IncompleteGrowthSerumAFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 85e39c37b249e004d9399f20fecd0f47
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/IceFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 5c0426eea76038244952a6d265b166d2
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/GrowthSerumFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 65aba98d0eed6494592d068a645e20a3
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/GroundBeefFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: c5c3ed38650f9824d8dbc4d236466c4f
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/FlourFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: f9fca04bdac22194cab34b45ee3daea5
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/FatFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: f70bdea2336497e418f788a7c3e4c65a
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/EggplantJuiceFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: f02d4bbc371fbb34084e4cfbc97be4cd
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/EggNogFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 7a23c629aaf92ca4b8d75b61a24d7f87
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/EggDinnerFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: bf265174689a7fa41bc347affe90685c
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/DoughFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 41f464976eef1c342b4c013e7f5d0513
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/CumFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: b3781b869c799904da4eee89d1d59f52
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/CakeFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 43658a64afd84da45a21417aef3eb72d
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/BurgerFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: b5908b007e2dba147b28c49e7c5b9f29
+    m_Address: Assets/Digestion Potion/Digestion Reactions/YFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 219686456389172418a0e632f2e9189a
+    m_Address: Assets/Digestion Potion/Fast Digestion Drinks/BananaSplitFD.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 417612658d3857146b6e13d872bd9e51
+    m_Address: Assets/Digestion Potion/DigestionPotion.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 8c0b007f5a39fa247967d091b197b36f
+    m_Address: Assets/Digestion Potion/Digestion Reactions/WoFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: a58928097c9bf8146a44b5a4b765fa35
+    m_Address: Assets/Digestion Potion/Digestion Reactions/WaFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 56171b7b6a722584f89dac7f51bbbc64
+    m_Address: Assets/Digestion Potion/Digestion Reactions/SEFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: b4feedff2bed713458cd87d97ab13b48
+    m_Address: Assets/Digestion Potion/Digestion Reactions/PoFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 7c804f6621dbc95429e07266c42dabf3
+    m_Address: Assets/Digestion Potion/Digestion Reactions/PPFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 9421cd11c22e0a440be09b643338e807
+    m_Address: Assets/Digestion Potion/Digestion Reactions/PJFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: eeff81aa97621ac468c6c9be752db7ae
+    m_Address: Assets/Digestion Potion/Digestion Reactions/PieFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 6e4d23f480b049e4b90c3d1c84bdd149
+    m_Address: Assets/Digestion Potion/Digestion Reactions/MuJFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: d4c61f95cf1c86c4d84d8b91bf80c2f4
+    m_Address: Assets/Digestion Potion/Digestion Reactions/MDJFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 840a46700c57eb544bf83314d256d665
+    m_Address: Assets/Digestion Potion/Digestion Reactions/MBoJFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: e6ee9d36b3ac56a44aca24a2e9d240d4
+    m_Address: Assets/Digestion Potion/Digestion Reactions/MBaJFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 9b6be2add3d065947a8cdcb6d8f587db
+    m_Address: Assets/Digestion Potion/Digestion Reactions/MSFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 3958654a9709bb840aba11f986c86bd0
+    m_Address: Assets/Digestion Potion/Digestion Reactions/MFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: a26ece75d43ef1d4a86ab2807d1daea9
+    m_Address: Assets/Digestion Potion/Digestion Reactions/MeJFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 3028222d97708514cb577d465bb7b86c
+    m_Address: Assets/Digestion Potion/Digestion Reactions/LFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 85c5dd74270a4a542b3bf1b79af4fd2f
+    m_Address: Assets/Digestion Potion/Digestion Reactions/IGSBFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: a62659f75f9ecf94a9bf2cfafb431d3c
+    m_Address: Assets/Digestion Potion/Digestion Reactions/IGSAFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 3ebc2c875bc459445a94e4ad9943ffda
+    m_Address: Assets/Digestion Potion/Digestion Reactions/IFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: c8418b1bc5f1da84ab28a109938facc2
+    m_Address: Assets/Digestion Potion/Digestion Reactions/GSFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 375d92ca9b107ff418c545cec08ac9d6
+    m_Address: Assets/Digestion Potion/Digestion Reactions/GBFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: c66e5c8c0df502e4cb5f368418933fd8
+    m_Address: Assets/Digestion Potion/Digestion Reactions/EJFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 1db86d31f25a6bd48b5700684de3ffaf
+    m_Address: Assets/Digestion Potion/Digestion Reactions/ENFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: e46903f534e4d6f4e90fb61be8eb96a3
+    m_Address: Assets/Digestion Potion/Digestion Reactions/EDFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 0ad33632f0d58be409a9da482f315167
+    m_Address: Assets/Digestion Potion/Digestion Reactions/DFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 71ce0b6307b459d49ab12105915ab5a5
+    m_Address: Assets/Digestion Potion/Digestion Reactions/CumFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 2e3ddec9ceab62b419923d709b3f63d0
+    m_Address: Assets/Digestion Potion/Digestion Reactions/CakeFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 208f818f9f31de74d895dd6f1dd3943e
+    m_Address: Assets/Digestion Potion/Digestion Reactions/BFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 951cc9f1ddb79ab47a5727991d5aa6ad
+    m_Address: Assets/Digestion Potion/Digestion Reactions/BSFD Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 6db2d6089cae4764585f7cdc5df3887b
+    m_Address: Assets/Digestion Potion/DP Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 446e1cd47527571408c6f75641d91c81, type: 2}
+    - {fileID: 11400000, guid: 3bf4dfb790e0d904ba3469be0ddd0f18, type: 2}

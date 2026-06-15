@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b49cb41b826404fbc3be501ccb1196, type: 3}
+  m_Name: EggBronze
+  m_EditorClassIdentifier: 
+  fluidNeeded: 1
+  display: {fileID: 3235399076933972990, guid: 91c6cc3eb004e214caaf3c326792ac9a, type: 3}
+  possibleNextGenerations:
+  - {fileID: 11400000, guid: 56fc141a049e8fe47b1e2ec67019fec5, type: 2}
+  produces: []

@@ -1,0 +1,729 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: New Kobolds
+  m_EditorClassIdentifier: 
+  m_GroupName: New Kobolds
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b53ce86ae893a784c8140d0990f8e139
+  m_SerializeEntries:
+  - m_GUID: 32eba0fd5b7a0e846817a8d00be5d25d
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/Kobold+.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: c235de706c5db76478e690208a47f931
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/Kobold^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: cecf11c355929c4488c86b93bbd8d2e8
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/Kobold++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: 2067c2787f3ea3143972f6a53553c7cc
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/Kobold^^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: ac1ad0b9cf34b57448f39ef84b9847c8
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/Kobold+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: 3b6e9e4ba44993947a262a4370e3338b
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/Kobold^^^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: 8949fe665d3f9c74ca1e91b8a00aea0f
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Kobold++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: 7c549abab75559b49bd682b698f2faf7
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Kobold^^^^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: bd8ce91a669611c4cb38626c27ac705e
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Kobold+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: cb342d2aff81b864fbb604846e3e9ff1
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Kobold^^^^^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: ac736021106f8c04093018840a539525
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Rose/KoboldRose.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: ab41bad0f71d77646a1b94ba2cb4cd8c
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/KoboldAmethyst.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: 7d188dd43182c194386f80e9e99a914f
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/KoboldEmerald.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: ead1ac53499882542b3a817e97438795
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/KoboldTopaz.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: 79eaeadec76c54a4290c5c0048f90337
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/KoboldCitrine.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: 1032567ab7ef11e4ebcc2eb56f0e6942
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Alexandrite/Kobold#.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: 355769b25683e8a4cb24a0fe65f112e4
+    m_Address: Assets/Shiny Kobolds/Cowbold/KoboldCow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: 2b1851938b3b465478c224b47cd956f4
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Egg+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: edfeaac2555bc16478906c0e7877710f
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Heart^^^^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: b543bda9a9be8ff4b954c7f2be72ef06
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Heart++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: d1abac7e1f813c94dbc9021cec5f86b1
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Egg^^^^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: ab4b89d1ffa01c442847a22831f4f527
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Egg++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: f4731e362e39b3c42b8aafd1b0e20b98
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/Heart^^^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: f7ba1d2742b07c04385a0a3acadeb60d
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/Heart+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 6edc36d86ceef42458ffc00630a247b2
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/Egg^^^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: db5e50f5f8ee69b419988af213d35aee
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/Egg+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 1a7757fdbe99f544f8fa81fd7d5003a4
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/Heart^^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 5c2d9e1764de7b04ea318cf264fb378e
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/Heart++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 1960bb682cc44e246ad65ceceff60089
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/Egg^^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 11eeba18c3e2857418181962c4751626
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/Egg++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: e557456a25ff97249a15e60a2e7a76e4
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/Heart^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: b1f0732bde2952b4cb20916f99f0a5a9
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/Heart+.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 338971e752b666c49bb56865c4cedbc8
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/Egg^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: ee270f9986d2d6848a7f107206d55cdf
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/Egg+.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 5646e722fd34d93429cfbbc953f3a425
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Egg^^^^^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 2c0461d664d017448bf81d7a8b8db14f
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Heart+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 53847adb20cfd40418933aecfe4a4503
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Heart^^^^^.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: dba56928c3f23f9409bd8d7f6fe07d98
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Rose/HeartRose.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: f23028b2730443e4bb408d6ac1831ade
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Rose/EggRose.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 72f14469161081245943f944ebf956e7
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Alexandrite/Egg#.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: a2323ad9a0b7dea42bc90fb0558d362e
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Alexandrite/Heart#.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: b050a2b01e9f67845bd4ac45082cf242
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/EggTopaz.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: a1782371b3e75364b90c9ad703de1479
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/EggEmerald.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: d6f5b5480ba12d949b49f723cfcf048e
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/EggCitrine.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: a1bb0aaca6313d8428ce1bc446e9ba48
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/EggAmethyst.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 088a7bb1c98dc4d44abfa931061f7457
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/KoboldBuriedSuperOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 9fdbd3429c91c5c45b17d03f360ec6f8
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/KoboldBuriedOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 40d738af52d4c0c429bfcf53af41350d
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/EggSuperOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: dd8666c274f3afe4d9394f71a20a1406
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/EggOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: d284a7427b535ec419ccb90d5422d58f
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/KoboldSpawnPlantSuperObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 41537c0545ec6444cbcc2ab2a8f838bf
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/KoboldSpawnPlantObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 88770452c893a2e499a7d8a1776c6d3a
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/KoboldBuriedSuperObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 0acde0c8e3e89bc4f8359797437c75c9
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/KoboldBuriedObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: ee8284c6a96550a40b81b75b849ca1a0
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/EggSuperObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 7410d1350fee2f948adc9a49d81bcba3
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/EggObs.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: deb4d61aa25bf4e418945dcb3e17444f
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/KoboldSpawnPlantSuperGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 093e0a91cd434ec4fbf48062d8859b49
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/KoboldSpawnPlantGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: a0d1e6f7ee0b2dd459a4c8030eafb45f
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/KoboldBuriedSuperBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: e18273875974587429726df77c88751d
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/KoboldBuriedGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: c7e477e01f7acfd488324385937c9319
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/EggSuperBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 2bdca80fa99004a4ea5726356a43a4cc
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/EggGold.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 880b55f68d8e60a48974d080df2d9f73
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/KoboldSpawnPlantSuperSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: b61d95dfe22a2d04f9afa29119300191
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/KoboldSpawnPlantSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: cb26a5d2fe4138641ba8035562f85915
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/KoboldBuriedSuperSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: ad849063c21a01744a8676e47d9301cd
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/KoboldBuriedSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: afb0e4fca306c784b827080cef0fbef0
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/EggSuperSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 95c22327e15ee044c83de21c3807ae39
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/EggSilver.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 459c4e0509673e643a0ee8d4a01f28e1
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/KoboldSpawnPlantSuperBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 19e47ceb441ff104185715b8a42d4e27
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/KoboldSpawnPlantBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 4bdc95b757ae18a42a114a60b23b453c
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/KoboldBuriedSuperBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 56fc141a049e8fe47b1e2ec67019fec5
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/KoboldBuriedBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: ffe0f59dd695ea44d9f74cdbec497552
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/EggSuperBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 270cc8c63e300394a84c176367a247d2
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/EggBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: d78b354dbae15a2408d4602dcfb8ea33
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/KoboldSpawnPlantOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: e5123cfe925e942438e0464a43b4c652
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/KoboldSpawnPlantSuperOpal.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 7879647aa66e25d41b52eb884bfa9e62
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Rose/EggRose.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: ffcfb6c7d5d78a94a8f09ea880b73ec7
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Rose/KoboldBuriedRose.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 9759c467dd8eaa74089c8de09d6adbcb
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Rose/KoboldSpawnPlantRose.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 90b76e3dc3701da4b933031118cd4187
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/TopazPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 4335f0a83e0452748bf2480e6b3d1194
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/TopazSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: f6afcb277ee69cd48b2803a8ac8babce
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/TopazMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 03a3d78ca59de2046abbff815a4bee6d
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/AmethystPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: af298517e3d768446bf95f6feb6918f8
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/AmethystSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 408b4ac7694ae7845bf45db9f1250079
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/EmeraldMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 67e1430560a2ca64f89d2baec1b45c2c
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/EmeraldPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: d51689fd21e7c044c82c176cda1eca35
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/EmeraldSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: d4adcedfd3b33aa4cad1fce4d3cac2ae
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/CitrineMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 238764aec0b5c8b4b81501086446fddb
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/CitrinePlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: c1400000cae13764b84f1b19728f21c7
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/CitrineSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: dc7de2155319c9141a74c987b03e63eb
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/AmethystMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: afb0cf64ed60c4e43a4327f5fc6f0440
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Alexandrite/EggAlex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: dbd2cc24dd5465042933e2d06efa68fa
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Alexandrite/KoboldBuriedAlex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 21bd127b3b46c844d8dc17aa8eaf9150
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Alexandrite/KoboldSpawnPlantAlex.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 46bf6e3977825394aa929ea528268b67
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/Love+.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 5a9b7bc1b57cfab4395544bc74fdb170
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/Love^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 8b402766ee2c31c4db106580a1ba3241
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/Love++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 05f79d905a6a2454abae265a66857516
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/Love^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 9f5c485ec4eece84387cf53a01a4997e
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/Love+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 6a13df286def4ee48b7414de9c047707
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/Love^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 89f5dd88695244643b598e72d6f66460
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Love++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 58df1fec8025d0f4c86aea709a9fea88
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Love^^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 9e7780c6b76191c4b960897d433d311e
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Love+++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: a971079eba3a2c446916aeb5f512dd53
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Love^^^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: e12bea4bf92942c4f868b363d59b2237
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Alexandrite/Love#.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 4efa9954cd1039e41818167ebfc78348
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Rose/LoveR.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: ac456718ae035d54fb5fd9495ea5f051
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/CitrineSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Seed
+  - m_GUID: 0d884e34a8367204cb99b0ce2b2c5bfd
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/EmeraldSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Seed
+  - m_GUID: 88b6a800bd87a1440926aa7e39739ce6
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/AmethystSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Seed
+  - m_GUID: 57c836c7e554fe6448292495acace06b
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/TopazSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Seed
+  - m_GUID: e062e9ce113d06f4abf4741a5609d806
+    m_Address: Assets/Shiny Kobolds/Cowbold/KoboldSpawnPlantCow.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 675e6d59ffeab9640b00c41cbce0408e
+    m_Address: Assets/Shiny Kobolds/Cowbold/KoboldBuriedCow.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 76b8d5693ba00e744be194cc067084d6
+    m_Address: Assets/Shiny Kobolds/Cowbold/EggCow.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 5238e8099a97b2c46a74da352900808a
+    m_Address: Assets/Shiny Kobolds/Cowbold/LoveMoo.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: c6a93bb3dc34a2f438c5b59adb474a49
+    m_Address: Assets/Shiny Kobolds/Cowbold/EggCow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 851e01380f445794caddc3a5de9b15db
+    m_Address: Assets/Shiny Kobolds/Cowbold/HeartCow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 5215bc5f8626d464b9f7f72ddc2dacd2
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/EggAmethyst.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 7dacfd2222216bf42845b3bf0c8672e8
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/KoboldSpawnPlantAmethyst.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 6a33444451bfac54da973a094455bb6f
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/KoboldBuriedAmethyst.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: f78a318f316aacc48b5177b95c09812f
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/EggCitrine.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: ab92c4b418f8eb24d967292625aa3a9c
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/EggEmerald.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: f75150da389e3ce4b8c025b56303f7d7
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/EggTopaz.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 7b16783f47994cd45a4a1cccc7559cc2
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/KoboldBuriedCitrine.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 433b595186e5b80498201a51031c4605
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/KoboldBuriedEmerald.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 081ef15cbfb1d494c917276389ba6657
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/KoboldBuriedTopaz.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: a6f737512bf9b954c90fd9cfbaa25258
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/KoboldSpawnPlantCitrine.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 2fcc61e9451be904b8800774efca9c8c
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/KoboldSpawnPlantEmerald.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: c49d71d9a3ec17b42b5d0e6bb8319136
+    m_Address: Assets/Shiny Kobolds/Gem Kobolds/Fruity Kobolds/KoboldSpawnPlantTopaz.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: d2bffbe6d540f234c9d09db5a2e621f3
+    m_Address: Assets/Shiny Kobolds/Fertile Kobold/Dlobok.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableCharacter
+  - m_GUID: e224ac60b3366574599f201812bbc0c7
+    m_Address: Assets/Shiny Kobolds/Fertile Kobold/Gge.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 8c8838e1906cb114b98855bc79e59133
+    m_Address: Assets/Shiny Kobolds/Fertile Kobold/DlobokBuried.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 11bf07ef721a9a04cbe5d97b0cb0157a
+    m_Address: Assets/Shiny Kobolds/Fertile Kobold/DlobokSpawnPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: d7aa8658d81bdcb4fb4225cd18bca9da
+    m_Address: Assets/Shiny Kobolds/Fertile Kobold/Evol.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 559a7662e1135904dbb61618fec27d68
+    m_Address: Assets/Shiny Kobolds/Fertile Kobold/Treah.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: d5699be831fe5bf4c98e0ff294bc2e3b
+    m_Address: Assets/Shiny Kobolds/Fertile Kobold/Gge.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: b62e40614edcb594d88fe6f984a9cf23
+    m_Address: Assets/Shiny Kobolds/Fertile Kobold/DlobokEyes.mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 115a623726978c44bbdeb97ee6bc8dae
+    m_Address: Assets/Shiny Kobolds/Fertile Kobold/DelbmarcsGge.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 863982165e6296e499854cf8ccdd2b26
+    m_Address: Assets/Shiny Kobolds/Fertile Kobold/DlobokDickTapered.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Penis
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 367b8753333e8434589b811ec4473895, type: 2}
+    - {fileID: 11400000, guid: 53c0bd9cb69639d4fa2584ff7abcef82, type: 2}

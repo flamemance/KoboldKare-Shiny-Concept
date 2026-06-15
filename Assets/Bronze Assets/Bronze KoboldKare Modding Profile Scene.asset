@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 046dc7a332e6a3b5cb1a736685bad44a, type: 3}
+  m_Name: Bronze KoboldKare Modding Profile Scene
+  m_EditorClassIdentifier: 
+  workshopItem:
+    publishedFileId: 0
+    visibility: 2
+    tags: -1
+    loadPriority: 0
+    previewSprite: {fileID: 21300000, guid: 1978d829602c08a48b8b3bd9f5ece759, type: 3}
+    language: 0
+    title: Bronze Upgrade
+    description: 
+    changeNotes: 
+    guid: d43b19a6-a0ca-4484-b45b-c7097d9dae1e
+  modScene:
+    playableCharacters:
+    - {fileID: 1835521404064263582, guid: 08effc1883556474493a8b1bdd31a1f8, type: 3}
+    - {fileID: 1835521404064263582, guid: 6c4504d6a7b3d994eab7c809a940ac2e, type: 3}
+    cosmeticItems:
+    - {fileID: 3232835858616668393, guid: b10225e771bcda244a6fc4c6ca7884ef, type: 3}
+    - {fileID: 5605572581541272102, guid: c061ea06d3e403d40b708c7961481702, type: 3}
+    - {fileID: 2256874742775704172, guid: fe13cd21f0c9f26498123269205667cb, type: 3}
+    - {fileID: 1450973290159316234, guid: 326f97fd1ac69e3429e7e279a77ffc7a, type: 3}
+    - {fileID: 6615774332933012020, guid: 1ee5a1930187ae3429c06f649e899087, type: 3}
+    - {fileID: 5605572581541272102, guid: 8ada9392bb2b48842a68eb88b6b6e9ac, type: 3}
+    fruits:
+    - {fileID: 1388518888101982767, guid: dc696fb9fa94e4c4f9a3b9dd0203bdc1, type: 3}
+    - {fileID: 1388518888101982767, guid: 3a68f204a342a8f4888f834507ebcc00, type: 3}
+    equipmentStoreItems:
+    - {fileID: 5045485462141057975, guid: 0dae7ec96906e20479d3cdba0b6e3a0b, type: 3}
+    - {fileID: 4013618625602604667, guid: d06bd9b6a4f172a489a3593595d11d8b, type: 3}
+    dicks: []
+    seeds:
+    - {fileID: 3927522705495677687, guid: f8d0852b8de19ae4ca4b8f8a65c2d413, type: 3}
+    networkedPrefabs:
+    - {fileID: 2849064875396262561, guid: 9d49702989a63f74ca1ee6f87e56a8ee, type: 3}
+    - {fileID: 2849064875396262561, guid: 7417f01f0335b424e802c2d640e93f14, type: 3}
+    - {fileID: 6327913273711440348, guid: 5d854858005f1ca47ab6a3bc8272a581, type: 3}
+    - {fileID: 6327913273711440348, guid: a86757cebf117714fba29d91a987975c, type: 3}
+    - {fileID: 3216297620374745997, guid: 8367d602bbd5cd745994918dc0da2c42, type: 3}
+    - {fileID: 1108172281563609256, guid: 56d0f0d1d528e8242be1c26303d99cd0, type: 3}
+    - {fileID: 114852081462200378, guid: caf808237b9fc154db1149933e47b381, type: 3}
+    plants:
+    - {fileID: 11400000, guid: b55f2a61fc983364590f8b8ae178bfed, type: 2}
+    - {fileID: 11400000, guid: a6e5536c4112a1d4eb1aab3f6a7e2b4c, type: 2}
+    - {fileID: 11400000, guid: b01d7f6c0886c2940a49d98ecb6ac316, type: 2}
+    - {fileID: 11400000, guid: 66a35cc44161f7244b1f6aa984e33256, type: 2}
+    - {fileID: 11400000, guid: b6cef2b1c71098f49b4b676c79efb9ed, type: 2}
+    - {fileID: 11400000, guid: e15539e3d95f82e42a2959ab9d4e8d03, type: 2}
+    - {fileID: 11400000, guid: 831a2b82152ca0248a865d4bfedbbc3f, type: 2}
+    - {fileID: 11400000, guid: e23f46b450329c448abc72abb7f6e205, type: 2}
+    - {fileID: 11400000, guid: 872fe1d57a69b6b4b9c24e7ede897cd3, type: 2}
+    reagents:
+    - {fileID: 11400000, guid: a4288ab79838c71408c718c398d73c1a, type: 2}
+    - {fileID: 11400000, guid: 3b62cdde2f243f44ead45def4d7812ae, type: 2}
+    - {fileID: 11400000, guid: 93ebe99e2a4c5c4449ba0ff548320deb, type: 2}
+    - {fileID: 11400000, guid: ee2a10cb498b15f40bc9a75fc885dd4e, type: 2}
+    - {fileID: 11400000, guid: 09d3099973a0dcd4dbd5f182ea6ebfdf, type: 2}
+    - {fileID: 11400000, guid: 3d4c5d0d5da34a24c82cda590dfad1fe, type: 2}
+    - {fileID: 11400000, guid: 37bb6c64881dd854a8dd0ce18468c6c3, type: 2}
+    - {fileID: 11400000, guid: abc3150da7fed53429b5967fae412f72, type: 2}
+    - {fileID: 11400000, guid: f04d5ec2bd2408d4d8c09653c65c5137, type: 2}
+    - {fileID: 11400000, guid: 30c588ba75a76c049b92bdabdd27b6aa, type: 2}
+    - {fileID: 11400000, guid: a75d9334a89d7344a9c94efd802e1eb7, type: 2}
+    - {fileID: 11400000, guid: 161d8753b3f79f0489b0bd5e2f1bb21f, type: 2}
+    - {fileID: 11400000, guid: e6a924017240d5240a7c2f7159310471, type: 2}
+    - {fileID: 11400000, guid: 90d29edae17760644a88baee1f55ee70, type: 2}
+    - {fileID: 11400000, guid: 8f92468b960108c4a9bb53879cb728da, type: 2}
+    - {fileID: 11400000, guid: f7f919a9b6243a24a81a4853ddbd106c, type: 2}
+    - {fileID: 11400000, guid: e53bee6f3605569429dad3991f55a177, type: 2}
+    - {fileID: 11400000, guid: ced577f20f06d0b4da541ced9d464f11, type: 2}
+    reagentReactions:
+    - {fileID: 11400000, guid: c7978a46f4748d0439aeab2662e65200, type: 2}
+    - {fileID: 11400000, guid: 0de2202fb15690846af6b59d6f21cbb7, type: 2}
+    - {fileID: 11400000, guid: 60d79da2dda48c44283386561f5543fc, type: 2}
+    - {fileID: 11400000, guid: 43a683db5a7b3b748bd145ce7cbcb62b, type: 2}
+    - {fileID: 11400000, guid: d1ea3c4d55bf7814d8f308bc10909fa7, type: 2}
+    - {fileID: 11400000, guid: 5bf10981bdd714d4abf61dd3d3bb5385, type: 2}
+    - {fileID: 11400000, guid: e272c6594c41d76419e0ce6e23d98d55, type: 2}
+    - {fileID: 11400000, guid: cdf85e786657d124e9808cf46aa9d0fa, type: 2}
+    - {fileID: 11400000, guid: 997c7c3bb4449c048a7fd57b4ced8fe8, type: 2}
+    - {fileID: 11400000, guid: f514b1b88a60b9644b5b11605531dd6d, type: 2}
+    - {fileID: 11400000, guid: e8bb7950baccdac4fa8f5c66a4461607, type: 2}
+    - {fileID: 11400000, guid: f751edfa41ee22d45a302663e18ad914, type: 2}
+    - {fileID: 11400000, guid: bedea135bdeff0340b03b5199a986456, type: 2}
+    - {fileID: 11400000, guid: f4c40ab0887d8104d8e9477721df61ab, type: 2}
+    - {fileID: 11400000, guid: dd9b77abbc7f23342af901059b5850de, type: 2}
+    - {fileID: 11400000, guid: a003c6143ed3dcc40bc42b8a3f864a63, type: 2}
+    equipment:
+    - {fileID: 11400000, guid: 38d11785d1fba2946b6245a7668301b1, type: 2}
+    - {fileID: 11400000, guid: ecedb96f4d473fe4487b6cbdb223f2e3, type: 2}
+    - {fileID: 11400000, guid: 82023fb02a2857149ab3c8c32ba817a5, type: 2}
+    - {fileID: 11400000, guid: 45af2177006bbe14e81a81808481d9e4, type: 2}
+    - {fileID: 11400000, guid: 075c41a1f61e16c48a659a21561bc679, type: 2}
+    - {fileID: 11400000, guid: c7b04e8749c62bc4d963d9a979ba6ca6, type: 2}
+    customLocalization: []
+    scene: {fileID: 102900000, guid: 1959a22915738a64f9d0aed5712706ed, type: 3}
+    sceneIcon: {fileID: 21300000, guid: 1978d829602c08a48b8b3bd9f5ece759, type: 3}
+    sceneTitle: MainmapBronze
+    sceneDescription: The same fix-me-up Kobold Farm with a little more bling

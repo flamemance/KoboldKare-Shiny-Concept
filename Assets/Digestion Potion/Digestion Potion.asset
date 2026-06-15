@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c974f217d050af7df953bbb02470e1bd, type: 3}
+  m_Name: Digestion Potion
+  m_EditorClassIdentifier: 
+  workshopItem:
+    publishedFileId: 0
+    visibility: 0
+    tags: 16
+    loadPriority: 0
+    previewSprite: {fileID: 21300000, guid: a4913bca3ec36de449ff765e923b84ee, type: 3}
+    language: 0
+    title: Fast Digestion
+    description: 
+    changeNotes: 
+    guid: bbc00d13-4333-4998-8d90-6f9db88be9a2
+  modObjects:
+    playableCharacters: []
+    cosmeticItems: []
+    fruits: []
+    equipmentStoreItems: []
+    dicks: []
+    seeds: []
+    networkedPrefabs: []
+    plants: []
+    reagents:
+    - {fileID: 11400000, guid: 417612658d3857146b6e13d872bd9e51, type: 2}
+    - {fileID: 11400000, guid: 219686456389172418a0e632f2e9189a, type: 2}
+    - {fileID: 11400000, guid: 43658a64afd84da45a21417aef3eb72d, type: 2}
+    - {fileID: 11400000, guid: b3781b869c799904da4eee89d1d59f52, type: 2}
+    - {fileID: 11400000, guid: 41f464976eef1c342b4c013e7f5d0513, type: 2}
+    - {fileID: 11400000, guid: bf265174689a7fa41bc347affe90685c, type: 2}
+    - {fileID: 11400000, guid: 7a23c629aaf92ca4b8d75b61a24d7f87, type: 2}
+    - {fileID: 11400000, guid: f02d4bbc371fbb34084e4cfbc97be4cd, type: 2}
+    - {fileID: 11400000, guid: f70bdea2336497e418f788a7c3e4c65a, type: 2}
+    - {fileID: 11400000, guid: f9fca04bdac22194cab34b45ee3daea5, type: 2}
+    - {fileID: 11400000, guid: c5c3ed38650f9824d8dbc4d236466c4f, type: 2}
+    - {fileID: 11400000, guid: 65aba98d0eed6494592d068a645e20a3, type: 2}
+    - {fileID: 11400000, guid: 5c0426eea76038244952a6d265b166d2, type: 2}
+    - {fileID: 11400000, guid: 85e39c37b249e004d9399f20fecd0f47, type: 2}
+    - {fileID: 11400000, guid: 3b66704a04226404aa9e0e49a9fca414, type: 2}
+    - {fileID: 11400000, guid: aa3b6cf074545594f96447379dcb7cad, type: 2}
+    - {fileID: 11400000, guid: 2fb59bdc6625c96419f61b2927afa2b9, type: 2}
+    - {fileID: 11400000, guid: a2912f6dd61229c41873af7d626afb82, type: 2}
+    - {fileID: 11400000, guid: ae3ba4dd8206f1748b70d6c38c625a9d, type: 2}
+    - {fileID: 11400000, guid: 5c0c175ea252c9143812cb531d77c751, type: 2}
+    - {fileID: 11400000, guid: 8195ad9bae7f21640aa33302318b54e5, type: 2}
+    - {fileID: 11400000, guid: bf7fd01954955a1428fc61d4a7766745, type: 2}
+    - {fileID: 11400000, guid: 730d3932d36a94647951567889592d4b, type: 2}
+    - {fileID: 11400000, guid: 0341e78662433884fad2d2f0f72c8424, type: 2}
+    - {fileID: 11400000, guid: 79da4ab25f41f66499d1e454231b73b3, type: 2}
+    - {fileID: 11400000, guid: d66059064272f22439a92440eb99471a, type: 2}
+    - {fileID: 11400000, guid: fcce304c9c8be3242a3765fa180b0100, type: 2}
+    - {fileID: 11400000, guid: d35c4430402ee5f4496774db6d6b7a01, type: 2}
+    - {fileID: 11400000, guid: 5f541ba229e9e3d4b9f1a403bc7c357d, type: 2}
+    - {fileID: 11400000, guid: ebcd2fc0faf28af4c8765db8b65d19e3, type: 2}
+    - {fileID: 11400000, guid: 66a4bf76bac761945a9e6e181dc23d30, type: 2}
+    - {fileID: 11400000, guid: 420769d3f339b4543a49db5046033923, type: 2}
+    reagentReactions:
+    - {fileID: 11400000, guid: 6db2d6089cae4764585f7cdc5df3887b, type: 2}
+    - {fileID: 11400000, guid: 208f818f9f31de74d895dd6f1dd3943e, type: 2}
+    - {fileID: 11400000, guid: 951cc9f1ddb79ab47a5727991d5aa6ad, type: 2}
+    - {fileID: 11400000, guid: 2e3ddec9ceab62b419923d709b3f63d0, type: 2}
+    - {fileID: 11400000, guid: 71ce0b6307b459d49ab12105915ab5a5, type: 2}
+    - {fileID: 11400000, guid: 0ad33632f0d58be409a9da482f315167, type: 2}
+    - {fileID: 11400000, guid: e46903f534e4d6f4e90fb61be8eb96a3, type: 2}
+    - {fileID: 11400000, guid: c66e5c8c0df502e4cb5f368418933fd8, type: 2}
+    - {fileID: 11400000, guid: 1db86d31f25a6bd48b5700684de3ffaf, type: 2}
+    - {fileID: 11400000, guid: 375d92ca9b107ff418c545cec08ac9d6, type: 2}
+    - {fileID: 11400000, guid: c8418b1bc5f1da84ab28a109938facc2, type: 2}
+    - {fileID: 11400000, guid: 3ebc2c875bc459445a94e4ad9943ffda, type: 2}
+    - {fileID: 11400000, guid: a62659f75f9ecf94a9bf2cfafb431d3c, type: 2}
+    - {fileID: 11400000, guid: 85c5dd74270a4a542b3bf1b79af4fd2f, type: 2}
+    - {fileID: 11400000, guid: 3028222d97708514cb577d465bb7b86c, type: 2}
+    - {fileID: 11400000, guid: e6ee9d36b3ac56a44aca24a2e9d240d4, type: 2}
+    - {fileID: 11400000, guid: 840a46700c57eb544bf83314d256d665, type: 2}
+    - {fileID: 11400000, guid: d4c61f95cf1c86c4d84d8b91bf80c2f4, type: 2}
+    - {fileID: 11400000, guid: a26ece75d43ef1d4a86ab2807d1daea9, type: 2}
+    - {fileID: 11400000, guid: 3958654a9709bb840aba11f986c86bd0, type: 2}
+    - {fileID: 11400000, guid: 9b6be2add3d065947a8cdcb6d8f587db, type: 2}
+    - {fileID: 11400000, guid: 6e4d23f480b049e4b90c3d1c84bdd149, type: 2}
+    - {fileID: 11400000, guid: eeff81aa97621ac468c6c9be752db7ae, type: 2}
+    - {fileID: 11400000, guid: 9421cd11c22e0a440be09b643338e807, type: 2}
+    - {fileID: 11400000, guid: b4feedff2bed713458cd87d97ab13b48, type: 2}
+    - {fileID: 11400000, guid: 7c804f6621dbc95429e07266c42dabf3, type: 2}
+    - {fileID: 11400000, guid: 56171b7b6a722584f89dac7f51bbbc64, type: 2}
+    - {fileID: 11400000, guid: a58928097c9bf8146a44b5a4b765fa35, type: 2}
+    - {fileID: 11400000, guid: 8c0b007f5a39fa247967d091b197b36f, type: 2}
+    - {fileID: 11400000, guid: b5908b007e2dba147b28c49e7c5b9f29, type: 2}
+    equipment: []
+    customLocalization: []

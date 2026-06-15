@@ -16,7 +16,34 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 6d0230f09c34a674a8e038584c8a0970
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 1959a22915738a64f9d0aed5712706ed
+    m_Address: Assets/Bronze Assets/Map/MainMapBronze.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableMap
+  - m_GUID: 1978d829602c08a48b8b3bd9f5ece759
+    m_Address: Assets/Bronze Assets/Map/Bronze preview.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2c5ce6d21919b9448bb57bec6f06473b
+    m_Address: Assets/Fertility Potion/Ovibloom.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 878e8dd7cede1f943b75378d21f06bb1
+    m_Address: Assets/Fertility Potion/FP Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: e2870e7b6e7079d40921ba33e43bae4a
+    m_Address: Assets/Equipment/Bucket2.0.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
   m_SchemaSet:
