@@ -17,7 +17,7 @@ MonoBehaviour:
   canManuallyUnequip: 1
   slot: 3
   groundPrefab:
-    gameObject: {fileID: 1450973290159316234, guid: 326f97fd1ac69e3429e7e279a77ffc7a,
+    gameObject: {fileID: 1450973290159316234, guid: dd8db070d5ffcfb408f0f9c9fd95f39d,
       type: 3}
     optionalDatabase: {fileID: 0}
   localizedName:
@@ -38,7 +38,7 @@ MonoBehaviour:
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
-  prefabContainingSkinnedMeshRenderers: {fileID: 5759212801429224254, guid: 1b02cf459ce40f94882f92e880960eb0,
+  prefabContainingSkinnedMeshRenderers: {fileID: 5759212801429224254, guid: 89f5e598206180443acfcec91aeee7a7,
     type: 3}
   blendShapesToTweak: []
   references:

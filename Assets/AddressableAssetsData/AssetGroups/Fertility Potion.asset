@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Fertility Potion
+  m_EditorClassIdentifier: 
+  m_GroupName: Fertility Potion
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 83beefa58931689499661788bcebc5d5
+  m_SerializeEntries:
+  - m_GUID: 2c5ce6d21919b9448bb57bec6f06473b
+    m_Address: Assets/Fertility Potion/Ovibloom.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 878e8dd7cede1f943b75378d21f06bb1
+    m_Address: Assets/Fertility Potion/FP Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fac0b961931130e4499758fcfc2dcb8f, type: 2}
+    - {fileID: 11400000, guid: 254548b3e317831448ea158e02d938c0, type: 2}

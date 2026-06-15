@@ -17,7 +17,7 @@ MonoBehaviour:
   canManuallyUnequip: 1
   slot: 5
   groundPrefab:
-    gameObject: {fileID: 2256874742775704172, guid: fe13cd21f0c9f26498123269205667cb,
+    gameObject: {fileID: 2256874742775704172, guid: 2af2db9e5e6af0b43bc7b78eef1fe7fc,
       type: 3}
     optionalDatabase: {fileID: 0}
   localizedName:
@@ -39,12 +39,12 @@ MonoBehaviour:
     m_WaitForCompletion: 0
     m_LocalVariables: []
   wearables:
-  - wearablePrefab: {fileID: 369034339057331295, guid: 40db14ff71af1974c825b950c11026eb,
+  - wearablePrefab: {fileID: 369034339057331295, guid: 7a80facf6af849a44b12aa1df27c9859,
       type: 3}
     attachPoint: 7
     stacks: 0
     stackOffset: {x: 0, y: 0, z: 0}
-  - wearablePrefab: {fileID: 797613289195961783, guid: 2ad9e4a2ebf7e584db8b2cbabee51bc0,
+  - wearablePrefab: {fileID: 797613289195961783, guid: f2ef1360bd2bafd4e80849e2728186e4,
       type: 3}
     attachPoint: 8
     stacks: 0

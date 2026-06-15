@@ -15,5 +15,5 @@ MonoBehaviour:
   fluidNeeded: 20
   display: {fileID: 919132149155446097, guid: fc89bfc57812a39468d454c062d51f67, type: 3}
   possibleNextGenerations:
-  - {fileID: 11400000, guid: 872fe1d57a69b6b4b9c24e7ede897cd3, type: 2}
+  - {fileID: 11400000, guid: 6c92e82c966c7dc4a8e5ce1ee1e5890b, type: 2}
   produces: []

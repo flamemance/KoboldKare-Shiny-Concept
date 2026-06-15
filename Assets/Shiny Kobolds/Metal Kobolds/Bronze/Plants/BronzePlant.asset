@@ -13,11 +13,12 @@ MonoBehaviour:
   m_Name: BronzePlant
   m_EditorClassIdentifier: 
   fluidNeeded: 1
-  display: {fileID: 919132149155446097, guid: 9cccd594878a50948b655898f735c453, type: 3}
-  possibleNextGenerations: []
+  display: {fileID: 8085504536581089219, guid: 64a0182b4350cb54b98471181b5ecdc1, type: 3}
+  possibleNextGenerations:
+  - {fileID: 11400000, guid: 520a803ca62b0a249ad50f5ab502ad3b, type: 2}
   produces:
   - prefab:
-      gameObject: {fileID: 1388518888101982767, guid: dc696fb9fa94e4c4f9a3b9dd0203bdc1,
+      gameObject: {fileID: 1388518888101982767, guid: f7b44cfe203f45643a7a2e0ab61564c9,
         type: 3}
       optionalDatabase: {fileID: 0}
     minProduce: 2
