@@ -19,7 +19,7 @@ MonoBehaviour:
   - reactant: {fileID: 11400000, guid: 56cbef9aacb50c54ea39c7eb8296e9cf, type: 2}
     coefficient: 1
   products:
-  - reactant: {fileID: 11400000, guid: 128570cebfc4379418d87a72b83fa089, type: 2}
+  - reactant: {fileID: 11400000, guid: f359bbf7fbfcc39469628724d3a9fb7f, type: 2}
     coefficient: 1
   references:
     version: 2

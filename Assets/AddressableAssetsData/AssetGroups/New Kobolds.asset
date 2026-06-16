@@ -482,50 +482,50 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Plant
-  - m_GUID: 46bf6e3977825394aa929ea528268b67
-    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/Love+.asset
+  - m_GUID: 0885c94953846624483f3405388eb2c5
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/GroundBeef++++.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
     - Reagent
-  - m_GUID: 5a9b7bc1b57cfab4395544bc74fdb170
-    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Bronze/Love^.asset
+  - m_GUID: 98cb394047f6dda4c9bdd1b0b5bea0ad
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/GrowthSerum++++.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
     - Reagent
-  - m_GUID: 8b402766ee2c31c4db106580a1ba3241
-    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/Love++.asset
+  - m_GUID: 430fbb18e8fb63a44aa17743f6349a72
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/Love++++.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
     - Reagent
-  - m_GUID: 05f79d905a6a2454abae265a66857516
-    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/Love^^.asset
+  - m_GUID: f16b3f9a2a6fbc445b4423b2efcf47ef
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/Love^^^^.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
     - Reagent
-  - m_GUID: 9f5c485ec4eece84387cf53a01a4997e
-    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/Love+++.asset
+  - m_GUID: 96dac7d4c9398d848a2cc67b94a883af
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/MelonJuice^^^^.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
     - Reagent
-  - m_GUID: 6a13df286def4ee48b7414de9c047707
-    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Gold/Love^^^.asset
+  - m_GUID: 346fcb011550e81448a52175a85a040b
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/MelonJuice++++.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
     - Reagent
-  - m_GUID: 89f5dd88695244643b598e72d6f66460
-    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Love++++.asset
+  - m_GUID: 6d98445883ec4f24f818a439a1fd4657
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/MushroomBoobJuice+++.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
     - Reagent
-  - m_GUID: 58df1fec8025d0f4c86aea709a9fea88
-    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Love^^^^.asset
+  - m_GUID: efd1458b897148647a7f5dd6c47c1af0
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/MushroomBallJuice+++.asset
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
@@ -1089,12 +1089,12 @@ MonoBehaviour:
     m_Address: Assets/Equipment/WateringCan+.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
-    - EquipmentStoreItem
-  - m_GUID: f4d06b44cb4b4544b94dca0d63f63e6e
-    m_Address: Assets/Equipment/Trough+.prefab
+    - NetworkedPrefab
+  - m_GUID: 7ddfc763349821e46b6a21a4c02aef05
+    m_Address: Assets/Equipment/WateringCan++.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
-    - EquipmentStoreItem
+    - NetworkedPrefab
   - m_GUID: 5bac26135bee9224da3fd214293401ed
     m_Address: Assets/Shiny Kobolds/Metal Kobolds/Silver/Plants/SilverMound.asset
     m_ReadOnly: 0
@@ -1678,6 +1678,388 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - NetworkedPrefab
+  - m_GUID: 751af6771eeed3347a7a4a51d7495d3d
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Cosmetics/Gloves++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equipment
+  - m_GUID: e92ff379af16e1843a3dbbe7cf09806c
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Cosmetics/HardHat++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equipment
+  - m_GUID: 645fc74fbb3894247a6f4e5f925aa8fa
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Cosmetics/Heels++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equipment
+  - m_GUID: f5d40af9a8291f84a860d3e8919e61e1
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Cosmetics/SpikedCollar++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equipment
+  - m_GUID: 21375a558ec3d80448bf418b7dd8ddf3
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Cosmetics/TopHat++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equipment
+  - m_GUID: aa9f411d15f25b84dbe4dc362af1426c
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Cosmetics/NippleBarbells++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Equipment
+  - m_GUID: e1fa0c88c720a3a4f831d5b948d5ed56
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Cosmetics/GlovesObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cosmetic
+  - m_GUID: 185042b1a28b8b44783948de42e9b55c
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Cosmetics/HardHatObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cosmetic
+  - m_GUID: a5dc8eb0ec37e8947b36ceda09ab036a
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Cosmetics/HeelsObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cosmetic
+  - m_GUID: 0926ce18637659d428c6107b50fa030d
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Cosmetics/NippleBarbellPiercingsObsEquippable.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cosmetic
+  - m_GUID: 1eed4252d3e75714fa2be00dc5e6d203
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Cosmetics/SpikeCollarObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cosmetic
+  - m_GUID: 1199caa6b376fa948a4301cb339adb01
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Cosmetics/TopHatObs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cosmetic
+  - m_GUID: a659fcd5ab1e942458999dbd2c03ad2d
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Plants/ObsSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Seed
+  - m_GUID: fbfbe0c27c974ab4180f9cd5bf92f753
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Plants/ShiningObsFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+  - m_GUID: 209ef0bf838b4d849ba26b441d57999b
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Plants/ObsFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+  - m_GUID: 27ad9c220a01fec40acffbf26c699657
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Plants/ObsSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 3581a45cf3a8d3d46a96c635a6f6040d
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Plants/ObsPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 43a00d47a910bba4ab9ae22e8055840d
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Plants/ObsMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: d74a9a4d8f43fed42bd4a2eab2afe125
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Plants/ObsBush.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 8d4b5b8d125c8a94b834d7e5944bd444
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/ObsJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 6699f77492984cf43a7f17852f61aed7
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/EggplantJuice^^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: b0be641a292465e41a9354bef44960a0
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/EggplantJuice++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 88896f92991e6aa449c192570cad2443
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/Burger++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 99a56211018040a48b37a01b41854ef2
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/MushroomDickJuice+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: a3c9daa7150d9374085bb036ac081a56
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/MushroomJuice+++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 96137f9d1bedf50489491cfc87dde166
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/PineappleJuice++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 7cab88e0b7acbcf41aa6f66f5c8ba4cc
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/PineappleJuice^^^^.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 3b7dee029fd7cfc429b01109a5c5977a
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/SuperObsJuice.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: 437be8799b5dfd44f92b3c9a349e0efd
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/Yogurt++++.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reagent
+  - m_GUID: f72424b46182e024e88986e8c756700c
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/DoughBeef++++Reaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 24f2fc9024ad97e41b473391b33b49ff
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsBeefReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: dd1263ed81286234d94474cad915a299
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsBurgerReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 98599d0174ca3b847b5f4e01443acac6
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsEggplantReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 0a4100713955d814391246024201c3f1
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsEggplantReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 065070387a471534d858ac09a521a242
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsGrowthSerumReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 5c91e04896d60264ebcc8dd573c6e61a
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsGrowthSerumReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 3cdfee9c751d4404a802ce6c86cb82d5
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsMelonReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 6561ae69eb0259b499dc20211d1135ff
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsMelonReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: b5b3dd2988436124d94b8ea637676a0a
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsMushroomBallJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 2e64303cff28c6449be62f6e3bef8dfc
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsMushroomBoobJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 70eeba21f36d45b4a9d4a9e537d163a4
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsMushroomDickJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: e4609638076d1fa49a0f3ffb9c5472cf
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsMushroomJuiceReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 0b4e1239d5ff72048a259fea349305a0
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsPineappleReaction
+      1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 0bc0d37260ab07a48878baf20abb8c12
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsPineappleReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: 74b494a1512c1b148b3773df5509a629
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Reactions/ObsYogurtReaction.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Reaction
+  - m_GUID: e5eba561cecbb1649b3388415a274945
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Dick/ObsD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Penis
+  - m_GUID: 8b6a1d6c58cb01e41b4ea074f0276a2f
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/Fish++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 72c5c54cde6b97445943e093b2061039
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Obsidian/Drinks/Steak++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 7ef68c592c57e79439313e4bde579d65
+    m_Address: Assets/Equipment/Bucket++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 601dae781dafa164fafdd5b8ea60cf4b
+    m_Address: Assets/Equipment/Bucket+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 282788b7e5d8ed54594bda927376af08
+    m_Address: Assets/Equipment/Bucket++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: e7cf0df06ae8a6a43b5f1ae90ae13cdb
+    m_Address: Assets/Equipment/Bucket#.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: b9a1166931758f3479b6033a196fc496
+    m_Address: Assets/Equipment/Bucket+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 528837d69eb503b4092eeacc90416a94
+    m_Address: Assets/Equipment/WateringCan+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 833e04058071f684cac3e35270a0c5c5
+    m_Address: Assets/Equipment/WateringCan++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 8c5113c4120bd1545b61e46201476eef
+    m_Address: Assets/Equipment/WateringCan+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: df5eb0b493707094384a324f50fa4c0a
+    m_Address: Assets/Equipment/WateringCan#.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: f4d06b44cb4b4544b94dca0d63f63e6e
+    m_Address: Assets/Equipment/Trough+.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: a6a9727a4923f3c4f9fd31ee882e78d1
+    m_Address: Assets/Equipment/Trough++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 4e819680ce094294cb6bfd713b897411
+    m_Address: Assets/Equipment/Trough+++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 06c0003c384ebbe46ac16661b7093cd7
+    m_Address: Assets/Equipment/Trough++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: e9a560330b9e51944b4ceb8fb025a0b3
+    m_Address: Assets/Equipment/Trough+++++.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: 968672b3e3baea1469b0e277dd99a706
+    m_Address: Assets/Equipment/Trough#.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NetworkedPrefab
+  - m_GUID: cb52a4bc4af098d45b06cfcb2a02fea4
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Plants/ShiningOpalFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+  - m_GUID: d4d011cd0ff5bc342971b68bc3bda5c7
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Plants/OpalFruit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fruit
+  - m_GUID: aaa34537d2e9aeb48929c8a4ae4ebbf6
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Plants/OpalSeed.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    - Seed
+  - m_GUID: 3e932d84f73710d4daea08317339daca
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Plants/OpalBush.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: f827b17fd1610474db197bc9c5552e50
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Plants/OpalMound.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: 6686589e8d3fdf74fa2fc0f4537adaf7
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Plants/OpalPlant.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
+  - m_GUID: c24461580ba980941a1b2b53a8a6d151
+    m_Address: Assets/Shiny Kobolds/Metal Kobolds/Rainbow Opal/Plants/OpalSprout.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Plant
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
   m_SchemaSet:

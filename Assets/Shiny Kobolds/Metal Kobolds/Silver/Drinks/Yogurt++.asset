@@ -36,11 +36,11 @@ MonoBehaviour:
     - rid: 6169593197097123849
       type: {class: CustomConsumptionDiscreteTrigger, ns: , asm: Assembly-CSharp}
       data:
-        requiredCumulativeReagent: 5
-        maximumTriggerCount: 4
+        requiredCumulativeReagent: 6.6666665
+        maximumTriggerCount: 3
         Effects:
         - rid: 6169593197097123850
     - rid: 6169593197097123850
       type: {class: MetabolizeCapacityReagentEffect, ns: , asm: Assembly-CSharp}
       data:
-        Multiplier: 1
+        Multiplier: 3

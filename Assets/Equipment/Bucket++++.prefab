@@ -268,7 +268,7 @@ MonoBehaviour:
   body: {fileID: 7403922466466801549}
   bucketSlosh: {fileID: 11400000, guid: 2156a65addaf5974e97d14a5b76080aa, type: 2}
   projectileCount: 1
-  projectileVolume: 10
+  projectileVolume: 50
   projectileSpeed: 10
 --- !u!114 &3974528431164441439
 MonoBehaviour:

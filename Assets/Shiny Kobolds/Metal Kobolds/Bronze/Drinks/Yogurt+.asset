@@ -43,4 +43,4 @@ MonoBehaviour:
     - rid: 6169593197097123844
       type: {class: MetabolizeCapacityReagentEffect, ns: , asm: Assembly-CSharp}
       data:
-        Multiplier: 1
+        Multiplier: 2
