@@ -21,12 +21,17 @@ MonoBehaviour:
     m_Address: Assets/Bronze Assets/Map/MainMapBronze.unity
     m_ReadOnly: 0
     m_SerializedLabels:
-    - PlayableMap
+    - default
   - m_GUID: 1978d829602c08a48b8b3bd9f5ece759
     m_Address: Assets/Bronze Assets/Map/Bronze preview.png
     m_ReadOnly: 0
     m_SerializedLabels:
     - default
+  - m_GUID: 18aa063db97f7f247aec470b8ae15a27
+    m_Address: Assets/New Map/Map/MainMapBronze.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayableMap
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
   m_SchemaSet:

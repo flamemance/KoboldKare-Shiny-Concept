@@ -36,8 +36,8 @@ MonoBehaviour:
     - rid: 8920608568533581827
       type: {class: StrengthGivingConsumption, ns: , asm: Assembly-CSharp}
       data:
-        requiredCumulativeReagent: 5
-        maximumTriggerCount: 4
+        requiredCumulativeReagent: 4
+        maximumTriggerCount: 5
         floaterInfoPrefab:
           gameObject: {fileID: 2105268475169688605, guid: f19f212c05f978d4ea4196b7b5698849,
             type: 3}

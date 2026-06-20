@@ -27,7 +27,7 @@ MonoBehaviour:
   metabolizationHalfLife: 30
   cleaningAgent: 0
   calories: 0.1
-  display: {fileID: 6402949560338128595, guid: 428dd52e2bf068545bf67fa28b4d0a27, type: 3}
+  display: {fileID: 6402949560338128595, guid: de4cdc044535db547bc3590114dceac7, type: 3}
   consumptionEvent:
     rid: 3073363028469350403
   references:
@@ -41,4 +41,4 @@ MonoBehaviour:
     - rid: 3073363028469350404
       type: {class: BaseSizeReagentEffect, ns: , asm: Assembly-CSharp}
       data:
-        Multiplier: 1.3
+        Multiplier: 1.4

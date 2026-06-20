@@ -36,7 +36,7 @@ MonoBehaviour:
     - rid: 350137688711233537
       type: {class: BallSizeReagentEffect, ns: , asm: Assembly-CSharp}
       data:
-        Multiplier: -3
+        Multiplier: -4
     - rid: 3073363028469350407
       type: {class: CustomReagentConsumptionMetabolize, ns: , asm: Assembly-CSharp}
       data:

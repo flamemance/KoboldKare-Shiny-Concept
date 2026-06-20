@@ -778,7 +778,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: fce804033b1f2e04982a0849fb7f22bf,
         type: 3}
       propertyPath: m_Name
-      value: BreedingMountBronze
+      value: BreedingMountSilver
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: fce804033b1f2e04982a0849fb7f22bf,
         type: 3}
@@ -829,7 +829,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: 6c3d428323774ae40ac02c5365d872ee, type: 2}
+      objectReference: {fileID: 2100000, guid: 0e7f5d241bb86e7479aacb2aa575448c, type: 2}
     - target: {fileID: 5074512353664290214, guid: fce804033b1f2e04982a0849fb7f22bf,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.size

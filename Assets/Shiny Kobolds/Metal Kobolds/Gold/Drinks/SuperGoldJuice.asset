@@ -21,7 +21,7 @@ MonoBehaviour:
     m_FallbackState: 0
     m_WaitForCompletion: 0
     m_LocalVariables: []
-  color: {r: 0.6792453, g: 0.6792453, b: 0.6792453, a: 1}
+  color: {r: 1, g: 0.90303624, b: 0.4386792, a: 1}
   emission: {r: 1, g: 0.90303624, b: 0.4386792, a: 1}
   value: 0.5
   metabolizationHalfLife: 30
